@@ -90,6 +90,8 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [projectile](https://gumroad.com/l/projectile) : an artist-friendly tool for throwing stuff around inside blender. [![][repo]](https://github.com/natecraddock/projectile)
 - [Phobos](https://github.com/dfki-ric/phobos) : Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo.
 - [FishSim](https://github.com/nerk987/FishSim) : Fish Swimming Simulator. This addon aims to make it easier to animate natural movements of fish by allowing the animation of targets or proxies, and then simulating the movements required for the fish to follow these targets.
+- [Khaos](https://blendermarket.com/products/khaos-ultimate-explosion-simulator) : provides the ability to procedurally add various particle effects including fire explosions, smoke explosions, and various particle debris such as glass, concrete, rocks, tree branches, dirt, metal shrapnel, rebar rods, wood pieces, and sparks! [$]
+
 
 ### 🦑Generator/Builder [^](#table)
 - 👤[FaceBuilder](https://www.keentools.io/download/facebuilder-for-blender) : is a Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuilder-for-blender-guide-cbb10c717f7c)
@@ -159,13 +161,26 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [reflow](https://gitlab.com/diegogangl/reflow) : blender addon to change fps.
 - [Keyframe Nudge](https://github.com/okuma10/Keyframe-Nudge) : scripts for quick keyframe maniplation.
 - [Real-Time-Animation](https://github.com/SavMartin/Real-Time-Animation-Addon-Update-to-2.80) : addon for animating by recording object motion This addon for Blender lets you move objects of any type (including cameras, lights, etc) and bones in 3D space and record their motion as keyframes.
+- [Pose Thumbnails](https://gitlab.com/blender-institute/pose-thumbnails) : Pose Thumbnails is a simple add-on which adds the ability to have thumbnails for the poses in a Pose Library.
+- [Action Driver](https://gumroad.com/l/DOezQW) : free add-on for Blender 2.8 that behaves similar to Set Driven Key in Maya. 
+- [AnimAide](https://github.com/aresdevo/animaide) : gives you the ability to simultaneously manipulate a group of keys across multiple fcurves from either animated objects or animated bones in an armature. See also its [BlenderArtists thread](https://blenderartists.org/t/animaide-free-add-on-for-blender-2-80-to-manipulate-keys-on-a-fcurve/1171558).
+- [Blender muscle Tools](https://blendermarket.com/products/blender-muscle-tools-1-6) : gives you the ability to create muscles in Blender for creating more realistic animations and renderings. You can convert every Mesh into a muscle and bind it to your character. Jiggle options and Shape changes are also available. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-muscle-simulator-add-on-available-on-blender-market/621815). [$]
+- [X-Muscle System](https://www.blendermarket.com/products/x-muscle-system) : X-Muscle System is an add-on designed for rapid muscular system, tissue and other organic object creation and their physical simulations. Its main purpose is to help visualize better skin surface deformations according to volume preservation of the body muscles, fat and even skeletal bones. [$]
+- [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning) : helps you to resolve the message: "bone heat weighting: failed to find solution for one or more bones"; some body parts or accessories are ignored: you have to fix vertex weights by hand; you have spent a long time to fix vertex weights, but you are still not satisfied with the result. [$]
+- [Walker](https://www.blendermarket.com/products/walker?ref=2) : Walker System is a character walk animation addon for Blender, it's primary made to work with Rigify, but can be used on other rig systems. See also its [BlenderArtists thread](https://blenderartists.org/t/walker/696838) [$]
 - Writing/Counting: 
     - [WritingAnimation](https://github.com/Shriinivas/writinganimation), [Typewriter](https://github.com/doakey3/blender-typewriter-addon), [TextCounter](https://github.com/leomoon-studios/leomoon-textcounter/), [GreaseWriter](https://github.com/doakey3/GreaseWriter)
 - Rigging:
     - [JiggleArmature](https://cheece.github.io/JiggleArmature/) : is an easy way to create wiggle effects in blender, just enable jiggle bone on the bones you want to be jiggly. [![][repo]](https://github.com/cheece/JiggleArmature)
     - [Rigacar](https://github.com/digicreatures/rigacar) : generate rig for cars.
+    - [Car-Rig Pro](https://blendermarket.com/products/car-rig-pro-blender-kit) :  allows you to rig any type of vehicle with four wheels ex: weight heavy, city car, race car etc... [$]
     - [RigFlex](https://github.com/nerk987/RigFlex) : simple soft body for Blender armatures.
-
+    - [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro?ref=2) : Auto-Rig Pro is an advanced automatic rig addon for Blender, for bipeds, quadrupeds and similar characters. See also its [BlenderArtists thread](https://blenderartists.org/t/auto-rig-pro-3-44-released-for-blender-2-8/672834). [$]
+    - [Bone Layer Manager](https://gumroad.com/l/STdb) : Assign/Name/Edit bone layers thanks to a UI which enables the user to assign bone layers as buttons on a live Rig UI panel. See also its [BlenderArtists thread](https://blenderartists.org/t/bone-layer-manager-for-blender-2-8x/1141002)
+    - [Freeik](https://www.blendermarket.com/products/freeik?ref=2) : Turn basic armature into an animation ready rig in a couple of clicks, features a more intuitive way to pose and animate a model and different posing modes. See also its [BlenderArtists thread](https://blenderartists.org/t/freeik/1157419). [$]
+    - [Rigify for MB-Lab](https://github.com/danielenger/Rigify-for-MB-Lab) : This add-on adds a nearly ready-to-use Rigify Meta-Rig for Characters made with the MB-Lab add-on. See also its [BlenderArtists thread](https://blenderartists.org/t/rigify-for-mb-lab-addon-for-an-addon/1140840).
+    - [Spring Bones](https://github.com/artellblender/springbones) : Blender addon to add spring/bouncy dynamic effect to bones.
+ 
 ### 🦖Game Engine [^](#table)
 -  [Armory](https://armory3d.org/) : is an open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory)
 - [UPBGE](https://upbge.org/) : is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
@@ -239,6 +254,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/) : lighting system for Blender.
 - [Shape Keys+](https://blenderartists.org/t/shape-keys/680636) : adds a panel with extra options for creating, sorting, viewing, and driving shape keys.
 - [FontSelector](https://github.com/samytichadou/FontSelector_blender_addon/) : easy font management inside Blender.
+- [Text Effects](https://blendermarket.com/products/ik-text-effects) : Text Effects allow you to build complex font animation without maths or key frames.
 - [Simple Renaming Panel](https://github.com/Weisl/simple_renaming_panel) : rename more objects at once. The tool includes basic functionalities of adding suffixes, prefixes, search and replace, add suffixes depending on the object type and much more.
 - [IOR_reference](https://github.com/diegogangl/IOR_reference) : a blender addon that display IOR values in a list.
 - [QuickSwitch](https://github.com/schroef/QuickSwitch) : a helper to quick switch workspaces and view render menu in viewport.
