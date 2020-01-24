@@ -263,14 +263,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [PBR Texture Mapper](https://github.com/jayanam/pbr_texture_mapper): create PBR node setup with one click.
 - [Poliigon Material Converter](https://help.poliigon.com/en/articles/2540839-poliigon-material-converter-addon-for-blender): create PBR node setup.
 
-### 🎮GameDev [^](#table)
-- [MeshSync](https://github.com/unity3d-jp/MeshSync): live link plugin for Unity. supported blender and other 3d softwares.
-- [Mr Mannequins Tools](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1661319-easily-export-import-animations-and-meshes-blender-to-ue4-free-addon-mr-mannequins-tools-v1-2): is a Blender add-on  that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine! [![][repo]](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools)
-- [AssetGen](https://blenderartists.org/t/assetgen-create-a-game-asset-in-a-single-click/702849): is automates the tasks to get a game assets ready for video games from an High Poly model.
-- [V-HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822): library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
-- [Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools): made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
-- [Embark Blender Tools](https://github.com/EmbarkStudios/blender-tools) : a Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudios/a-love-letter-to-blender-e54167c22193)
-
 ### 🪀Misc [^](#table)
 - Management:
     - [BlenderKit](https://www.blenderkit.com/): allows you to download assets, materials, and alpha brushes to your blender 2.8 client with the click of a button for free. _Now you can find it on built-in addons._
@@ -279,10 +271,10 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Blender Version Manager](https://github.com/DotBow/Blender-Version-Manager): minimalistic download manager for blender.
     - [Asset Management](https://gumroad.com/l/asset_management): store assets (single objetcs, multiple objects, custom setup (like rendering setup with lights, floor etc.), rigged characters, Fx assets like the Grass Essential, ...). See also its [BlenderArtists thread](https://blenderartists.org/t/asset-management/660778).
     - [CommandRecorder](https://github.com/Muthird/CommandRecorder2.8): records commands and allows to play them afterwards to automate some modeling actions. [Video](https://youtu.be/7UtFRyxm-EU).
-- VR/AR 
+- VR/AR: 
     - [blender-xr](https://www.marui-plugin.com/blender-xr/): a free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
     - [Blender-Metaverse-Addon](https://github.com/Menithal/Blender-Metaverse-Addon): blender toolset for creating content for Metaverses like High Fidelity.
-- ArcViz
+- ArcViz:
     - [JARCH-Vis](https://blenderartists.org/t/addon-jarch-vis/642607): is add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis)
 - Import:
     - [glTF](https://github.com/KhronosGroup/glTF-Blender-IO/tree/blender-v2.82-release), [Rhinoceros3D files](https://blenderartists.org/t/import-rhinoceros-3d-files-into-blender/1136070), [PLY files](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280), [SVG](https://github.com/Shriinivas/shapekeyimport), [GIF](https://github.com/doakey3/Bligify), Quake [BSP](https://blenderartists.org/t/quake-1996-game-bsp-import-script/578191) [MD3](https://github.com/axredneck/blender-md3/tree/blender2.8)
@@ -294,6 +286,8 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [BatchRender](https://github.com/VertStretch/RenderBurst), [Notify](https://github.com/Dziban-dev/Notify_Blender_Render), [AlarmShutdown](https://gumroad.com/l/PcDfw), [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton), 
     - [Render Button & Camera Manager](https://blenderartists.org/t/render-button-camera-manager-for-blender-2-81-update-07-01-2020-v0-3-7/1159414): displays a big render button and features many camera related options.
     - [Blender Suspender](https://gumroad.com/l/bpupp): allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
+    - [Auto Render Tile Size](https://gregzaal.github.io/auto-tile-size/): Never worry about unecessarily slow render times or having to change tile sizes every time you switch between CPU and GPU rendering again. [![][repo]](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/blob_plain/HEAD:/render_auto_tile_size.py) [Other repository](https://github.com/gregzaal/Auto-Render-Tile-Size) 
+- [EasyFX](https://github.com/DoubleZZ/EasyFX-2.8): allows you to do post-production directly from the image editor, and EasyFX will automatically build your composition node tree. Once an image has been rendered you can easily start enabling effects, tweak values and manipulate the image to your liking. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-easyfx-post-production-done-directly-in-the-image-editor/655920). 
 - Camera:
     - [Real Camera](https://3d-wolf.com/products/camera.html): is an addon that allows you to control the Blender camera like a real camera. [![][repo]](https://github.com/macio97/Real-Camera)
     - [Cameras-Lister](https://github.com/Ryxx/Cameras-Lister): Easy select camera’s in popup shortcut is Alt-C.
@@ -330,6 +324,14 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Call for Content: Themes](https://devtalk.blender.org/t/call-for-content-themes/3174)
     - [Theme Development - Paper Cuts](https://devtalk.blender.org/t/theme-development-paper-cuts/9715)
     - [Blender UI Paper Cuts](https://devtalk.blender.org/t/blender-ui-paper-cuts/2596)
+
+### 🎮GameDev [^](#table)
+- [MeshSync](https://github.com/unity3d-jp/MeshSync): live link plugin for Unity. supported blender and other 3d softwares.
+- [Mr Mannequins Tools](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1661319-easily-export-import-animations-and-meshes-blender-to-ue4-free-addon-mr-mannequins-tools-v1-2): is a Blender add-on  that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine! [![][repo]](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools)
+- [AssetGen](https://blenderartists.org/t/assetgen-create-a-game-asset-in-a-single-click/702849): is automates the tasks to get a game assets ready for video games from an High Poly model.
+- [V-HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822): library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
+- [Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools): made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
+- [Embark Blender Tools](https://github.com/EmbarkStudios/blender-tools) : a Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudios/a-love-letter-to-blender-e54167c22193)
 
 --------------
 <!-- Contributing Guidelines for Resources:
@@ -467,6 +469,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Neobarok](http://neobarok.com/): Intuitive and free 3D modeling software for everyone.
 - [DJV](https://darbyjohnston.github.io/DJV/): Professional image sequence, media review software for VFX, animation, and film production. [![][repo]](https://github.com/darbyjohnston/DJV)
 - Blender Tools:
+    - [B-Renderon](https://blendermarket.com/products/b-renderon): a standalone program with a nice and handy graphical interface to render multiple blend files from command line, without bothering with (or even seeing, unless you want to) the command line. See also its [BlenderArtists thread](https://blenderartists.org/t/b-renderon-standalone-render-manager-for-blender/1152894). [$]
     - [BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater): download and install nightly builds with one click.
     - [BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI): command line version of BlenderUpdater.
 - Fractal:
