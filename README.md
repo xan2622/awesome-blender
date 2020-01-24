@@ -10,6 +10,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [🌊Simulation/Physics](#SimulationPhysics-)
     - [🦑Generator/Builder](#GeneratorBuilder-)
     - [🧊Modeling](#Modeling-)
+    - [🖍Retopology/Remesh](#Retopology/Remesh-)
     - [🌠Animation](#Animation-)
     - [🦖Game Engine](#Game-Engine-)
     - [🗜Render Engine](#Render-Engine-)
@@ -156,11 +157,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Mesh Check BGL](https://gumroad.com/l/mesh_check_BGL_edition):  displays useful informations such as Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated verts, Non-manifold edges. [![][repo]](https://github.com/pistiwique/mesh_check_BGL_edition). See also its [BlenderArtists thread](https://blenderartists.org/t/mesh-check/639166/48).
 - [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/): allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull). Seel also its [BlenderArtists thread](https://blenderartists.org/t/destructive-extrude-beta/678275).
 - [Maxivz's Interactive Tools](https://gumroad.com/l/ynJmIV): Collection of intuitive, context sensitive tools for Blender. They are designed to be used as hotkeys, removing the amount of interaction with the menus and allowing for a less interrupted, more productive modeling experience. [![][repo]](https://github.com/maxivz/interactivetoolsblender). See also its [BlenderArtists thread](https://blenderartists.org/t/interactive-tools-for-blender-2-8/1164932).
-- Retopology/Remesh:
-    - [Retopoflow](https://blendermarket.com/products/retopoflow) : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
-    - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
-    - [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
-    - [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
 - Hard Surface:
     - [KIT OPS](https://gumroad.com/l/kitops): can create objects and scenes with extreme efficiency and speed. Complex industrial designs can be generated in a single sitting.
     - [HardOps](lien): Hard Ops is intended to be a (non-destructive) workflow assistant toolkit. Many tools have been added and streamlined to keep you working as fast and efficiently as possible. See also its [BlenderArtists thread](https://blenderartists.org/t/hard-ops-thread/657591). [More info](https://masterxeon1001.com/) [$]
@@ -194,6 +190,16 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [BY-GEN](https://gumroad.com/l/BY-GEN): is an addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender. [![][repo]](https://github.com/curtisjamesholt/BY-GEN-public)
     - [Fiber Mesh](https://blenderartists.org/t/fiber-mesh-resurrected-for-2-80/1141872): generate fiber meshes.
     - [Laser Slicer](https://github.com/rgsouthall/laser_slicer): cuts up a Blender object and exports the slices to SVG files for cutting on a laser cutter or other post-processing.
+
+### 🖍Retopology/Remesh [^](#table)
+    - [Retopoflow](https://blendermarket.com/products/retopoflow) : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
+    - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
+    - [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
+    - [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
+- [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan) See also its [BlenderArtists thread](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347). [$]
+- [DynRemesh](https://gumroad.com/l/Luqth): DynRemesh is a quad-based remesher, assisting in retopology for your dyntopo sculpts & 3dscans containing too many tris(triangles). See also its [BlenderArtists thread](https://blenderartists.org/t/dynremesh-2-5-quad-based-remeshing-retopology/1124132). [$]
+- [Exoside Quad Remesher](https://exoside.com/quadremesher/): Quad Remesher is an automatic quad remeshing (or auto retopology) technology. See also its [BlenderArtists thread](https://blenderartists.org/t/quad-remesher-auto-retopologizer/1170913). [$]
+- [Tesselator](https://blendermarket.com/products/tesselator?ref=2): Tesselator is a remeshing addon that helps you create regular quad and triangle meshes easily out of sculpts. See also its [BlenderArtists thread](https://blenderartists.org/t/tesselator-quad-remesher/1131624). [$]
 
 ### 🌠Animation [^](#table)
 - [Animation Nodes](https://animation-nodes.com/): A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
@@ -243,6 +249,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Pro-Lighting: Skies](https://blendermarket.com/products/pro-lighting-skies): allows you to instantly change your outdoor lighting to any time of the day, any weather. [$]
 - [Rotate an HDRI](https://gumroad.com/l/XQYEl): Addon allows you to rotate HDRI with the mouse in the style of "Marmoset toolbag" .. See also its [BlenderArtists thread](https://blenderartists.org/t/rotate-an-hdri-addon-for-blender-2-8x/1178283). 
 - [Target Spot](https://blenderartists.org/t/target-spot/1203316): allows you to add a 3dsmax style target spotlight. 
+- [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner): HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
 
 ### 🔳Texture/UV [^](#table)
 - [Poliigon Uber Mapping Node](https://www.dropbox.com/s/b8p5nmg7evqbsd6/PoliigonUberMapping_v1.0.blend): anti-tile node setup for blender. [[more info]](https://youtu.be/CQ9VmCN2EsE?t=456)
@@ -315,7 +322,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [IOR_reference](https://github.com/diegogangl/IOR_reference): a blender addon that display IOR values in a list.
 - [QuickSwitch](https://github.com/schroef/QuickSwitch): a helper to quick switch workspaces and view render menu in viewport.
 - [MiraTools](https://github.com/mifth/mifthtools): 3dcoat, houdini, modo mesh exchange tools and more. See also its [BlenderArtists thread](https://blenderartists.org/t/miratools/637385).
-- [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner): HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752): Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
 - [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater): For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
 
