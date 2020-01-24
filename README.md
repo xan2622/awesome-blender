@@ -111,6 +111,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Real Snow](https://3d-wolf.com/products/snow.html) : is an addon to create snow on top of objects. [![][repo]](https://github.com/macio97/Real-Snow)
 - [Welder](https://blenderartists.org/t/welder/672478) : welds generator for Blender.
 - [Sprytile](https://github.com/ologon/Sprytile) : a blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://itch.io/post/1034106)
+- [Procedural hardsurface](https://github.com/JacquesDiringer/Procedural_hardsurface) : A script to generate infinite hardsurface-ish shapes in Blender. Can be used to cut panels or when lacking inspiration. 
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) : Blender addons to make the bridge between Blender and geographic data.
 - [Celtic Knot](https://github.com/BorisTheBrave/celtic-knot/wiki/Gallery) : generate bezier curves, pipes and ribbons in elaborate weavings, based off of a framework mesh.
 - [Floorboard Generator](https://blenderartists.org/t/a-floor-board-generator/582368/195) : generate floor board. [![][repo]](https://github.com/importbpy/Floorboard-Generator)
@@ -136,6 +137,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Align Selection to Grease Pencil](https://github.com/Volantk/blender-addon-align-to-gpencil) : This script will allow you to align the selection to the current grease pencil stroke. Works with vertices, objects, paths, bezier curves (except Aligned and Free type curves), edit mode bones. See also its [BlenderArtists thread](https://blenderartists.org/t/align-selection-to-grease-pencil-1-2-2-2-80/605909).
 - [Backface Hiding](https://gitlab.com/ChameleonScales/Backface_Hiding) : See also its BlenderArtists thread](https://blenderartists.org/t/addon-backface-hiding/700822).
 - [Bmesh Clean](https://blendermarket.com/products/bmesh-clean-add-on) : cleans Sketchup models from all the useless edges, faces, vertices [$]
+- [Mesh Check BGL](https://gumroad.com/l/mesh_check_BGL_edition) :  displays useful informations such as Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated verts, Non-manifold edges. [![][repo]](https://github.com/pistiwique/mesh_check_BGL_edition). See also its [BlenderArtists thread](https://blenderartists.org/t/mesh-check/639166/48).
 - [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/) : allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull). Seel also its [BlenderArtists thread](https://blenderartists.org/t/destructive-extrude-beta/678275).
 - [Maxivz's Interactive Tools](https://gumroad.com/l/ynJmIV) : Collection of intuitive, context sensitive tools for Blender. They are designed to be used as hotkeys, removing the amount of interaction with the menus and allowing for a less interrupted, more productive modeling experience. [![][repo]](https://github.com/maxivz/interactivetoolsblender). See also its [BlenderArtists thread](https://blenderartists.org/t/interactive-tools-for-blender-2-8/1164932).
 - Retopology/Remesh:
@@ -158,6 +160,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - Snapping-Align:
     - [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus) : precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
     - [Easy Align](https://blenderartists.org/t/addon-easy-align/685704) : Easy Align addon allows you to align mesh objects origins and align mesh objects to each others easily, it works in both Edit mode and Object mode. [![][repo]](https://github.com/sergeod9/Easy_Align_Addon)
+- [Originie](https://blendermarket.com/products/Teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on) : Originie is an add-on for manipulating the pivot's (the origin in Blender lingo) position with ease. It comes with bunch of tools that would let you move the pivot around as you "wish". See also its [BlenderArtists thread](https://blenderartists.org/t/originie-teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on/1178430). [$]
 - Mesh Generate/Stylization:
     - [Tissue](https://github.com/alessandro-zomparelli/tissue) : add-on for computational design.
     - [Mech/Fy](https://gumroad.com/l/KZllV) A procedural workflow that automates the process of hard surfaces modelling.
@@ -288,7 +291,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Simple Renaming Panel](https://github.com/Weisl/simple_renaming_panel) : rename more objects at once. The tool includes basic functionalities of adding suffixes, prefixes, search and replace, add suffixes depending on the object type and much more.
 - [IOR_reference](https://github.com/diegogangl/IOR_reference) : a blender addon that display IOR values in a list.
 - [QuickSwitch](https://github.com/schroef/QuickSwitch) : a helper to quick switch workspaces and view render menu in viewport.
-- [MifthTools](https://github.com/mifth/mifthtools) : 3dcoat, houdini, modo mesh exchange tools and more.
+- [MiraTools](https://github.com/mifth/mifthtools) : 3dcoat, houdini, modo mesh exchange tools and more. See also its [BlenderArtists thread](https://blenderartists.org/t/miratools/637385).
 - [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner) : HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752) : Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
 - [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater) : For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
