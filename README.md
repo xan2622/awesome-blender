@@ -192,10 +192,10 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Laser Slicer](https://github.com/rgsouthall/laser_slicer): cuts up a Blender object and exports the slices to SVG files for cutting on a laser cutter or other post-processing.
 
 ### 🖍Retopology/Remesh [^](#table)
-    - [Retopoflow](https://blendermarket.com/products/retopoflow) : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
-    - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
-    - [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
-    - [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
+- [Retopoflow](https://blendermarket.com/products/retopoflow) : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
+- [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
+- [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
+- [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
 - [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan) See also its [BlenderArtists thread](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347). [$]
 - [DynRemesh](https://gumroad.com/l/Luqth): DynRemesh is a quad-based remesher, assisting in retopology for your dyntopo sculpts & 3dscans containing too many tris(triangles). See also its [BlenderArtists thread](https://blenderartists.org/t/dynremesh-2-5-quad-based-remeshing-retopology/1124132). [$]
 - [Exoside Quad Remesher](https://exoside.com/quadremesher/): Quad Remesher is an automatic quad remeshing (or auto retopology) technology. See also its [BlenderArtists thread](https://blenderartists.org/t/quad-remesher-auto-retopologizer/1170913). [$]
