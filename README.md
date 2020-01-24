@@ -110,17 +110,25 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) : Blender addons to make the bridge between Blender and geographic data.
 - [Celtic Knot](https://github.com/BorisTheBrave/celtic-knot/wiki/Gallery) : generate bezier curves, pipes and ribbons in elaborate weavings, based off of a framework mesh.
 - [Floorboard Generator](https://blenderartists.org/t/a-floor-board-generator/582368/195) : generate floor board. [![][repo]](https://github.com/importbpy/Floorboard-Generator)
-- [Piperator](https://blenderartists.org/t/a-floor-board-generator/582368/195) : is an addon for blender which helps generating complex pipe layouts.
+- [Piperator](https://yeus.gitlab.io/post/2019-10-18-piperator1/) : is an addon for blender which helps generating complex pipe layouts. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693).
+- [Pipe Nightmare](https://github.com/proxeIO/pipenightmare) : A simple add-on inspired by the 3DS Max script "Pipe Dreams", can generate a large amount of random pipes, add/remove presets, curve bevel object for each generated pipe, generation seed values for consistent output, respects unit system defined in the properties scene context.
 
 ### 🧊Modeling [^](#table)
 - [Sorcar](https://aachman98.itch.io/sorcar) : Procedural modeling in Blender using Node Editor. [![][repo]](https://github.com/aachman98/Sorcar)
 - [Sverchok](http://nikitron.cc.ua/sverchok_en.html) : is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok)
 - [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) : is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [[market]](https://blendermarket.com/products/MACHIN3tools) 
 - [QBlocker](https://qblockerdocs.readthedocs.io/) :  is an interactive object creation tool for Blender.
+- [F2](https://github.com/Cfyzzz/Other-scripts) :  extends Blender’s native functionality for creating faces and should be a great help in your modeling workflow. See also its [BlenderArtists thread](https://blenderartists.org/t/f2/562773/169).
 - [fspy](https://fspy.io/) : is an open-source camera matching app, extremely useful for modeling directly from a reference image. [[blender addon]](https://github.com/stuffmatic/fSpy-Blender)
 - [PolyQuilt](https://github.com/sakana3/PolyQuilt) : is provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [[more info]](https://www.youtube.com/watch?v=VKLPHh3CYCU)
 - [BezierUtility](https://github.com/Shriinivas/blenderbezierutils) : this add-on contains several tools for working with Bezier curves.
 - [Mesh Heal](https://blenderartists.org/t/mesh-heal/1117095) : is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
+- [Volume Preserving Smoothing](https://gumroad.com/l/vol_smooth): Addon for Blender for smoothing mesh surfaces without too much of volume loss. See also its [BlenderArtists thread](https://blenderartists.org/t/volume-preserving-smoothing/1115522).
+- [Align Selection to Grease Pencil](https://github.com/Volantk/blender-addon-align-to-gpencil) : This script will allow you to align the selection to the current grease pencil stroke. Works with vertices, objects, paths, bezier curves (except Aligned and Free type curves), edit mode bones. See also its [BlenderArtists thread](https://blenderartists.org/t/align-selection-to-grease-pencil-1-2-2-2-80/605909).
+- [Backface Hiding](https://gitlab.com/ChameleonScales/Backface_Hiding) : See also its BlenderArtists thread](https://blenderartists.org/t/addon-backface-hiding/700822).
+- [Bmesh Clean](https://blendermarket.com/products/bmesh-clean-add-on) : cleans Sketchup models from all the useless edges, faces, vertices [$]
+- [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/) : allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull). Seel also its [BlenderArtists thread](https://blenderartists.org/t/destructive-extrude-beta/678275).
+- [Maxivz's Interactive Tools](https://gumroad.com/l/ynJmIV) : Collection of intuitive, context sensitive tools for Blender. They are designed to be used as hotkeys, removing the amount of interaction with the menus and allowing for a less interrupted, more productive modeling experience. [![][repo]](https://github.com/maxivz/interactivetoolsblender). See also its [BlenderArtists thread](https://blenderartists.org/t/interactive-tools-for-blender-2-8/1164932).
 - Retopology/Remesh:
     - [retopoflow](https://blendermarket.com/products/retopoflow)  : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
     - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982)  : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
@@ -213,7 +221,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools) : made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
 - [Embark Blender Tools](https://github.com/EmbarkStudios/blender-tools)  : a Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudios/a-love-letter-to-blender-e54167c22193)
 
-
 ### 🪀Misc [^](#table)
 - Management:
     - [BlenderKit](https://www.blenderkit.com/) : allows you to download assets, materials, and alpha brushes to your blender 2.8 client with the click of a button for free. _Now you can find it on built-in addons._
@@ -245,6 +252,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Shortcut VUr](https://github.com/jayanam/shortcut_VUr) : with this addon you can display mouse and keyboard input.
     - [ExtraInfo](https://gumroad.com/l/UznDL) : Show more info in the viewport.
     - [AStats](https://github.com/YuriyAndropov/blenderPython/tree/master/AStats) : Show Stats in Viewport.
+    - [Dolly Zoom & Truck Shift Navigation](https://gumroad.com/l/dolly_zoom_truck_shift) : It's a modal tool that lets you change the angle and shift of your camera lens while keeping it focused on the 3D cursor. Use this to align your camera with background images (when modeling with reference) or for getting that perfect framing for your renders. See also its [BlenderArtists thread](https://blenderartists.org/t/camera-perspective-tool/699982). [$]
 - VideoEditor:
     - [Power Sequencer](https://github.com/GDQuest/blender-power-sequencer) : brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
     - [Freesound Add-on](https://github.com/iwkse/freesound/tree/freesound-2.0) : is an addon for Blender that allows users to create and edit subtitles for movies or music. 
