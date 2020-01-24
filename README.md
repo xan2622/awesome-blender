@@ -228,6 +228,8 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Blender Interplanety Storage](https://blenderartists.org/t/bis-online-material-storage/689728) : the online material (shader) storage add-on for Blender 3D creation. With the BIS add-on, you can save materials (groups of nodes) to the online personal library and then convenient search and upload them.
     - [Asset Wizard](https://blenderartists.org/t/asset-wizard-for-blender-2-8/1149311) : is a asset management addon.
     - [Blender Version Manager](https://github.com/DotBow/Blender-Version-Manager) : minimalistic download manager for blender.
+    - [Asset Management](https://gumroad.com/l/asset_management) : store assets (single objetcs, multiple objects, custom setup (like rendering setup with lights, floor etc.), rigged characters, Fx assets like the Grass Essential, ...). See also its [BlenderArtists thread](https://blenderartists.org/t/asset-management/660778).
+    - [CommandRecorder](https://github.com/Muthird/CommandRecorder2.8) : records commands and allows to play them afterwards to automate some modeling actions. [Video](https://youtu.be/7UtFRyxm-EU).
 - VR/AR 
     - [blender-xr](https://www.marui-plugin.com/blender-xr/) : a free virtual and mixed reality user interface for Blender that enables artists to edit scenes within the software using a suitable headset and controllers.
     - [Blender-Metaverse-Addon](https://github.com/Menithal/Blender-Metaverse-Addon) : blender toolset for creating content for Metaverses like High Fidelity.
@@ -240,7 +242,9 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [to ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418), [VTK](https://github.com/tkeskita/io_mesh_vtk), [Bezier2SVG](https://leomoon.com/downloads/plugins/leomoon-bezier2svg/)
     - [Export Paper Model from Blender](https://addam.github.io/Export-Paper-Model-from-Blender/) : add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
 - Render:
-    - [BatchRender](https://github.com/VertStretch/RenderBurst), [Notify](https://github.com/Dziban-dev/Notify_Blender_Render), [AlarmShutdown](https://gumroad.com/l/PcDfw), [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton)
+    - [BatchRender](https://github.com/VertStretch/RenderBurst), [Notify](https://github.com/Dziban-dev/Notify_Blender_Render), [AlarmShutdown](https://gumroad.com/l/PcDfw), [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton), 
+    - [Render Button & Camera Manager](https://blenderartists.org/t/render-button-camera-manager-for-blender-2-81-update-07-01-2020-v0-3-7/1159414) : displays a big render button and features many camera related options.
+    - [Blender Suspender](https://gumroad.com/l/bpupp) : allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
 - Camera:
     - [Real Camera](https://3d-wolf.com/products/camera.html) : is an addon that allows you to control the Blender camera like a real camera. [![][repo]](https://github.com/macio97/Real-Camera)
     - [Cameras-Lister](https://github.com/Ryxx/Cameras-Lister) : Easy select camera’s in popup shortcut is Alt-C.
@@ -253,6 +257,9 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [ExtraInfo](https://gumroad.com/l/UznDL) : Show more info in the viewport.
     - [AStats](https://github.com/YuriyAndropov/blenderPython/tree/master/AStats) : Show Stats in Viewport.
     - [Dolly Zoom & Truck Shift Navigation](https://gumroad.com/l/dolly_zoom_truck_shift) : It's a modal tool that lets you change the angle and shift of your camera lens while keeping it focused on the 3D cursor. Use this to align your camera with background images (when modeling with reference) or for getting that perfect framing for your renders. See also its [BlenderArtists thread](https://blenderartists.org/t/camera-perspective-tool/699982). [$]
+    - [2D Roll Viewport](https://gumroad.com/l/2d_roll_viewport) : Rolls the Viewport as if it's a 2D canvas. See also [this RightClickSelect](https://blender.community/c/today/4cdbbc/) message.
+    - [Polycount](https://www.nothing-is-3d.com/article31/polycount-a-blender-addon-helping-to-know-about-your-polycount) : A Blender 2.8 addon helping to know about your scene polycount. [![][repo]](https://github.com/Vinc3r/Polycount#polycount)
+    - [Floating Windows](https://blendermarket.com/products/floating-windows---the-missing-feature-of-blender-2) : This addon give new possibilities for its users, like for example working in full screen in the node editor while having a preview of your material floating in your workspace. See also its [BlenderArtists thread](https://blenderartists.org/t/floating-windows-the-missing-feature-of-blender-2-8-release/1163493).
 - VideoEditor:
     - [Power Sequencer](https://github.com/GDQuest/blender-power-sequencer) : brings smart new editing features to edit faster with Blender's Video Sequence Editor. It is completely Free and Open Source.
     - [Freesound Add-on](https://github.com/iwkse/freesound/tree/freesound-2.0) : is an addon for Blender that allows users to create and edit subtitles for movies or music. 
@@ -269,6 +276,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [MifthTools](https://github.com/mifth/mifthtools) : 3dcoat, houdini, modo mesh exchange tools and more.
 - [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner) : HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752) : Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
+- [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater) : For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
 
 ### 🎴Themes [^](#table)
 - [Blender Pro](https://github.com/paulcoops/blender_pro-theme), [80's](https://gumroad.com/l/fWkBi), [Xsi Winter](https://blenderartists.org/t/theme-xsi-winter-pro-blender-2-80/1177994), [Awesome](https://blenderartists.org/t/awesome-theme-for-blender-2-8/1120656), [Fresh Snow](https://devtalk.blender.org/t/call-for-content-themes/3174/345), [Nord](https://devtalk.blender.org/t/call-for-content-themes/3174/382)
