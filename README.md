@@ -13,6 +13,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [🌠Animation](#Animation-)
     - [🦖Game Engine](#Game-Engine-)
     - [🗜Render Engine](#Render-Engine-)
+    - [💡Lighting](#Lighting-)
     - [🔳Texture/UV](#TextureUV-)
     - [🎮GameDev](#GameDev-)
     - [🪀Misc](#Misc-)
@@ -92,13 +93,16 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [FishSim](https://github.com/nerk987/FishSim) : Fish Swimming Simulator. This addon aims to make it easier to animate natural movements of fish by allowing the animation of targets or proxies, and then simulating the movements required for the fish to follow these targets.
 - [Khaos](https://blendermarket.com/products/khaos-ultimate-explosion-simulator) : provides the ability to procedurally add various particle effects including fire explosions, smoke explosions, and various particle debris such as glass, concrete, rocks, tree branches, dirt, metal shrapnel, rebar rods, wood pieces, and sparks! [$]
 
-
 ### 🦑Generator/Builder [^](#table)
 - 👤[FaceBuilder](https://www.keentools.io/download/facebuilder-for-blender) : is a Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuilder-for-blender-guide-cbb10c717f7c)
 - 🚶🏻‍♀️[MB-Lab](https://mblab.dev/) : is a free, open source character creation tool for Blender. [![][repo]](https://github.com/animate1978/MB-Lab)
 - [The Grove 3D](https://www.thegrove3d.com/) : Grow natural 3D trees for visualisation and film. Grow, bend, prune, interactively simulate the seasons year by year. [$]
 - [tree-gen](https://github.com/MaximeHerpin/modular_tree/tree/blender_28) : procedural generation of tree models in blender.
 - [modular_tree](https://github.com/MaximeHerpin/modular_tree) : This addon for blender allows the creation of realistic trees with the node editor.
+- [Real Trees](https://blendermarket.com/products/real-trees) : Real Trees is an addon that allows you to easily add realistic tree models in your scene (a collection of models and textures). [More info](https://docs.google.com/document/d/1Pt5sdSKPZZ06tkQsIszrJ76ZLIVa5S9jsJbbLfu86ho/edit). [$]
+- [Realistic Tree Asset Pack](https://blendermarket.com/products/realistic-tree-asset-pack) : This set of assets contains 4 Tree Models, including Ash, Maple, Poplar and Spruce with 7-9 unique textures each for randomizing realism! Each tree is rigged and ready for animation. See also its [BlenderArtists thread](lien). [$]
+- [Graswald](https://blendermarket.com/products/graswald?ref=2) : Graswald is a professional high-quality asset pack containing different species of weeds, grass, and moss as well as various kinds of debris, packed in a powerful add-on that allows incredible customization. See also its [BlenderArtists thread](https://blenderartists.org/t/graswald-official-releases-and-announcements/1115751). [$]
+- [Scatter](https://blendermarket.com/products/scatter) : Scatter is an attempt at making the current scattering workflow of blender more Accessible, Powerful, Extremely Fast and Enjoyable for artists. See also its [BlenderArtists thread](https://blenderartists.org/t/scatter-the-scattering-tool-of-blender-2-8/1177672). [$]
 - [Bricker](https://github.com/bblanimation/bricker) : Photoreal Lego/Minecraft Simulations. [[market]](https://www.blendermarket.com/products/bricker)
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) : procedurally generate 3D spaceships.
 - [Space Station Generator](https://gumroad.com/curtisjamesholt#iABmB) : tool lets you generate sprawling space stations.
@@ -112,6 +116,11 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Floorboard Generator](https://blenderartists.org/t/a-floor-board-generator/582368/195) : generate floor board. [![][repo]](https://github.com/importbpy/Floorboard-Generator)
 - [Piperator](https://yeus.gitlab.io/post/2019-10-18-piperator1/) : is an addon for blender which helps generating complex pipe layouts. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693).
 - [Pipe Nightmare](https://github.com/proxeIO/pipenightmare) : A simple add-on inspired by the 3DS Max script "Pipe Dreams", can generate a large amount of random pipes, add/remove presets, curve bevel object for each generated pipe, generation seed values for consistent output, respects unit system defined in the properties scene context.
+- [CW Eye](https://www.blendermarket.com/products/cw-eye-a-procedural-eye-material?ref=2) : CW Eye is a real procedural material shader tree for Blender. Developed for the Cycles Renderer. See also its [BlenderArtists thread](https://blenderartists.org/t/cw-eye-another-procedural-eye-material/1101434). [$]
+- [Photorealistic Eye Generator](https://www.blendermarket.com/products/photorealistic-eye-generator-) : This is a generator of procedural eyes (mathematically generated) based on cycles nodes for Blender, this is able to generate both the part of the iris and the sclera. The part of the iris besides the bump map also works as a displacement map, to get more realistic results. With this product you will be able to generate infinite photorealistic quality eyes. [Video]](https://youtu.be/xKVs9ATOdFI) [$]
+- [Plating Generator & Greebles](https://blendermarket.com/products/plating-generator) : allows you to quickly generate a plating pattern from a random seed and to select this pattern to extrude the edges accordingly. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). [$]
+- [Configurable Dynamic Jet](https://www.blendermarket.com/products/configurable-dynamic-jet?ref=2) : allows you to dynamically configure the basic shape of the aircraft, then leaving you free to edit the base mesh by leaving the Mirror and Subdivision Surface modifiers intact. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). [$]
+- [Greeblefx](https://blendermarket.com/products/greeblefx-non-destructive-greeble-generator) : GreebleFx simplifies the creation of panels/greebles/nurnies in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/greeblefx-non-destructive-greeble-tool/656742). [$]
 
 ### 🧊Modeling [^](#table)
 - [Sorcar](https://aachman98.itch.io/sorcar) : Procedural modeling in Blender using Node Editor. [![][repo]](https://github.com/aachman98/Sorcar)
@@ -201,6 +210,14 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender-blender) : This Radeon ProRender plug-in for Blender ​is a feature rich solution which enables the user to render high quality images of their models.
 - [Pixar's RenderMan for Blender](https://github.com/tyler-furby/RenderManForBlender) : physically-based render from Pixar. Not officially supported 2.8 there are bunch of plugins made by blender community. [[more info]](https://blenderartists.org/t/pixar-renderman-for-blender/646404/650)
 
+### 💡Lighing [^](#table)
+- [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/) : lighting system for Blender.
+- [Gaffer](https://github.com/gregzaal/Gaffer) : is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [[market]](https://blendermarket.com/products/gaffer-light-manager/). See also its [BlenderArtists thread](https://blenderartists.org/t/gaffer-a-lighting-hdri-manager-add-on/612871). 
+- [Pro-Lighting: Studio](https://blendermarket.com/products/pro-lighting-studio) : Pro-Lighting Studio is a Blender addon that helps you produce gorgeous results, with dozens of interesting lighting suggestions for your model. [$]
+- [Pro-Lighting: Skies](https://blendermarket.com/products/pro-lighting-skies) : allows you to instantly change your outdoor lighting to any time of the day, any weather. [$]
+- [Rotate an HDRI](https://gumroad.com/l/XQYEl) : Addon allows you to rotate HDRI with the mouse in the style of "Marmoset toolbag" .. See also its [BlenderArtists thread](https://blenderartists.org/t/rotate-an-hdri-addon-for-blender-2-8x/1178283). 
+- [Target Spot](https://blenderartists.org/t/target-spot/1203316) : allows you to add a 3dsmax style target spotlight. 
+
 ### 🔳Texture/UV [^](#table)
 - [Poliigon Uber Mapping Node](https://www.dropbox.com/s/b8p5nmg7evqbsd6/PoliigonUberMapping_v1.0.blend) : anti-tile node setup for blender. [[more info]](https://youtu.be/CQ9VmCN2EsE?t=456)
 - [Parallax Mapping](https://gumroad.com/neveselov#WhPLq) : This is Parallax Mapping material and node setup. Created in Blender 2.8 for eevee renderer, it works well in cycles too. [[more info]](https://www.youtube.com/watch?v=ZL695WnJvmU)
@@ -224,8 +241,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 ### 🪀Misc [^](#table)
 - Management:
     - [BlenderKit](https://www.blenderkit.com/) : allows you to download assets, materials, and alpha brushes to your blender 2.8 client with the click of a button for free. _Now you can find it on built-in addons._
-    - [Gaffer](https://github.com/gregzaal/Gaffer) : is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [[market]](https://blendermarket.com/products/gaffer-light-manager/)
-    - [Blender Interplanety Storage](https://blenderartists.org/t/bis-online-material-storage/689728) : the online material (shader) storage add-on for Blender 3D creation. With the BIS add-on, you can save materials (groups of nodes) to the online personal library and then convenient search and upload them.
+      - [Blender Interplanety Storage](https://blenderartists.org/t/bis-online-material-storage/689728) : the online material (shader) storage add-on for Blender 3D creation. With the BIS add-on, you can save materials (groups of nodes) to the online personal library and then convenient search and upload them.
     - [Asset Wizard](https://blenderartists.org/t/asset-wizard-for-blender-2-8/1149311) : is a asset management addon.
     - [Blender Version Manager](https://github.com/DotBow/Blender-Version-Manager) : minimalistic download manager for blender.
     - [Asset Management](https://gumroad.com/l/asset_management) : store assets (single objetcs, multiple objects, custom setup (like rendering setup with lights, floor etc.), rigged characters, Fx assets like the Grass Essential, ...). See also its [BlenderArtists thread](https://blenderartists.org/t/asset-management/660778).
@@ -266,7 +282,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Subsimport](https://github.com/doakey3/Subsimport) : is an addon for Blender that allows users to create and edit subtitles for movies or music. 
 - AddonCollections: [varkenvarken/blenderaddons](https://github.com/varkenvarken/blenderaddons), [uhlik/bpy](https://github.com/uhlik/bpy), [YuriyAndropov/blenderPython](https://github.com/YuriyAndropov/blenderPython), [bookyakuno/-Blender-](https://github.com/bookyakuno/-Blender-), [Stromberg90/Scripts](https://github.com/Stromberg90/Scripts/tree/master/Blender)
 - [Projectors](https://github.com/Ocupe/Projectors) : a blender add-on for simple projector creation and modification.
-- [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/) : lighting system for Blender.
 - [Shape Keys+](https://blenderartists.org/t/shape-keys/680636) : adds a panel with extra options for creating, sorting, viewing, and driving shape keys.
 - [FontSelector](https://github.com/samytichadou/FontSelector_blender_addon/) : easy font management inside Blender.
 - [Text Effects](https://blendermarket.com/products/ik-text-effects) : Text Effects allow you to build complex font animation without maths or key frames.
