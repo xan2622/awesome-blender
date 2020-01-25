@@ -40,7 +40,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Painting](#Painting-)
     - [Terrain](#Terrain-)
 - [🔍Explore Blender](#Explore-Blender-)
-    - [Documantation](#Documantation-)
+    - [Documentation](#Documentation-)
     - [Developement](#Developement-)
     - [Community](#Community-)
 - [🖇Social](#Social-)
@@ -110,8 +110,8 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Backface Hiding](https://gitlab.com/ChameleonScales/Backface_Hiding): See also its BlenderArtists thread](https://blenderartists.org/t/addon-backface-hiding/700822).
 - [Bmesh Clean](https://blendermarket.com/products/bmesh-clean-add-on) [$]: cleans Sketchup models from all the useless edges, faces, vertices 
 - [optiloops](https://github.com/vilemduha/optiloops): Optiloops is a blender 3d addon for optimizing topology. [![][ba-logo]](https://blenderartists.org/t/optiloops-new-loops-optimizing-addon/1140235?u=peetie)
-- [Mesh Check BGL](https://gumroad.com/l/mesh_check_BGL_edition):  displays useful informations such as Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated verts, Non-manifold edges. [![][repo]](https://github.com/pistiwique/mesh_check_BGL_edition). [![][ba-logo]](https://blenderartists.org/t/mesh-check/639166/48)
-- [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/): allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull). Seel also its [BlenderArtists thread](https://blenderartists.org/t/destructive-extrude-beta/678275).
+- [Mesh Check BGL](https://gumroad.com/l/mesh_check_BGL_edition):  displays useful informations such as Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated verts, Non-manifold edges. [![][repo]](https://github.com/pistiwique/mesh_check_BGL_edition) [![][ba-logo]](https://blenderartists.org/t/mesh-check/639166/48)
+- [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/): allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull) [![][ba-logo]](https://blenderartists.org/t/destructive-extrude-beta/678275)
 - [Maxivz's Interactive Tools](https://gumroad.com/l/ynJmIV): Collection of intuitive, context sensitive tools for Blender. They are designed to be used as hotkeys, removing the amount of interaction with the menus and allowing for a less interrupted, more productive modeling experience. [![][repo]](https://github.com/maxivz/interactivetoolsblender) [![][ba-logo]](https://blenderartists.org/t/interactive-tools-for-blender-2-8/1164932)
 - Selection:
     - [Select panel](https://github.com/xdanielc/select_panel): displays in a panel, most of the selection tools. Usefull for new blender users who don't know yet blender hoykeys. [![][ba-logo]](https://blenderartists.org/t/select-panel/1200881)
@@ -190,7 +190,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
 - [SpeedRetopo](https://gumroad.com/l/speedretopo): is a free add-on for Blender to make fast and easy retopology using Bsurface.
 - [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
-- [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan)[![][ba-logo]](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347)
+- [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan) [![][ba-logo]](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347)
 - [DynRemesh](https://gumroad.com/l/Luqth) [$]: DynRemesh is a quad-based remesher, assisting in retopology for your dyntopo sculpts & 3dscans containing too many tris(triangles). [![][ba-logo]](https://blenderartists.org/t/dynremesh-2-5-quad-based-remeshing-retopology/1124132)
 - [Exoside Quad Remesher](https://exoside.com/quadremesher/) [$]: Exoside Quad Remesher is an automatic quad remeshing (or auto retopology) technology. [![][ba-logo]](https://blenderartists.org/t/quad-remesher-auto-retopologizer/1170913)
 - [Tesselator](https://blendermarket.com/products/tesselator?ref=2) [$]: Tesselator is a remeshing addon that helps you create regular quad and triangle meshes easily out of sculpts. [![][ba-logo]](https://blenderartists.org/t/tesselator-quad-remesher/1131624)
@@ -198,7 +198,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 ### 🔳Texture/UV [^](#table)
 - [Poliigon Uber Mapping Node](https://www.dropbox.com/s/b8p5nmg7evqbsd6/PoliigonUberMapping_v1.0.blend): anti-tile node setup for blender. [[more info]](https://youtu.be/CQ9VmCN2EsE?t=456)
 - [Parallax Mapping](https://gumroad.com/neveselov#WhPLq): This is Parallax Mapping material and node setup. Created in Blender 2.8 for eevee renderer, it works well in cycles too. [[more info]](https://www.youtube.com/watch?v=ZL695WnJvmU)
-- [Texel Density Checker](https://gumroad.com/l/CEIOR): Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker) [[market]](https://blendermarket.com/products/texel-density-checker)
+- [Texel Density Checker](https://gumroad.com/l/CEIOR): Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker) [![][bm-logo]](https://blendermarket.com/products/texel-density-checker)
 - [UV Toolkit](https://gumroad.com/alexbel#NbMya): Tools collection for UV editing in blender.
 - [TexTools](http://renderhjs.net/textools/blender/): TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
 - [Magic-UV](https://nutti.github.io/Magic-UV/): This is a blender add-on Magic UV consisted of many UV manipulation features which Blender lack of. [![][repo]](https://github.com/nutti/Magic-UV)
@@ -309,7 +309,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Render Button & Camera Manager](https://blenderartists.org/t/render-button-camera-manager-for-blender-2-81-update-07-01-2020-v0-3-7/1159414): displays a big render button and features many camera related options.
     - [Blender Suspender](https://gumroad.com/l/bpupp): allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
     - [Render+](https://blendermarket.com/products/render) [$]: Render+ keeps track of your rendertimes so you don't have to.  Useful metrics like the average, slowest and fastest frame time help you improve your scenes. While the estimated remaining let's you plan ahead. 
-    - [Auto Render Tile Size](https://gregzaal.github.io/auto-tile-size/): Never worry about unecessarily slow render times or having to change tile sizes every time you switch between CPU and GPU rendering again. [![][repo]](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/blob_plain/HEAD:/render_auto_tile_size.py) [Other repository](https://github.com/gregzaal/Auto-Render-Tile-Size) 
+    - [Auto Render Tile Size](https://gregzaal.github.io/auto-tile-size/): Never worry about unecessarily slow render times or having to change tile sizes every time you switch between CPU and GPU rendering again. [![][repo]](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/blob_plain/HEAD:/render_auto_tile_size.py) [![][repo]](https://github.com/gregzaal/Auto-Render-Tile-Size) 
 - Camera:
     - [Real Camera](https://3d-wolf.com/products/camera.html): is an addon that allows you to control the Blender camera like a real camera. [![][repo]](https://github.com/macio97/Real-Camera)
     - [Cameras-Lister](https://github.com/Ryxx/Cameras-Lister): Easy select camera’s in popup shortcut is Alt-C.
@@ -549,7 +549,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 ## 🔍Explore Blender [^](#table)
 [![](https://img.shields.io/badge/Download-Latest-yellowgreen?logo=blender&style=flat-square)](https://www.blender.org/download/)[![](https://img.shields.io/badge/Experimental-red?logo=&style=flat-square)](https://builder.blender.org/download/)[![](https://img.shields.io/badge/Branches-brown?style=flat-square)](https://builder.blender.org/download/branches/) [![](https://img.shields.io/badge/Show-Release%20Notes-yellowgreen?logo=blender&style=flat-square)](https://wiki.blender.org/wiki/Reference/Release_Notes)[![](https://img.shields.io/badge/Recent%20Activities-olivedrab?style=flat-square)](https://developer.blender.org/project/view/2/)
 
-### [Documantation](https://docs.blender.org/) [^](#table)
+### [Documentation](https://docs.blender.org/) [^](#table)
 [📖 User Manual](https://docs.blender.org/manual/en/latest/) | [🔗 Python API](https://docs.blender.org/api/current/) | [⚙️ Developer Wiki](https://wiki.blender.org/wiki/Main_Page)
 
 ### Developement [^](#table)
