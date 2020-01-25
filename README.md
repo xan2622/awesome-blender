@@ -163,7 +163,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Realistic Tree Asset Pack](https://blendermarket.com/products/realistic-tree-asset-pack) [$]: This set of assets contains 4 Tree Models, including Ash, Maple, Poplar and Spruce with 7-9 unique textures each for randomizing realism! Each tree is rigged and ready for animation.  
 - [Graswald](https://blendermarket.com/products/graswald?ref=2) [$]: Graswald is a professional high-quality asset pack containing different species of weeds, grass, and moss as well as various kinds of debris, packed in a powerful add-on that allows incredible customization. [![][ba-logo]](https://blenderartists.org/t/graswald-official-releases-and-announcements/1115751)
 - [Scatter](https://blendermarket.com/products/scatter) [$]: Scatter is an attempt at making the current scattering workflow of blender more Accessible, Powerful, Extremely Fast and Enjoyable for artists. [![][ba-logo]](https://blenderartists.org/t/scatter-the-scattering-tool-of-blender-2-8/1177672)
-- [Bricker](https://github.com/bblanimation/bricker): Photoreal Lego/Minecraft Simulations. [[market]](https://www.blendermarket.com/products/bricker)
+- [Bricker](https://github.com/bblanimation/bricker): Photoreal Lego/Minecraft Simulations. [![][bm-logo]](https://www.blendermarket.com/products/bricker)
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator): procedurally generate 3D spaceships.
 - [Space Station Generator](https://gumroad.com/curtisjamesholt#iABmB): tool lets you generate sprawling space stations.
 - [Building Tool](https://github.com/ranjian0/building_tool)  : building generation addon for blender.
