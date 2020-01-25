@@ -9,10 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0beta2 (d1f66e3, 2020-01-24)"
    sodipodi:docname="image2VectorSplit.svg"
-   height="596"
-   width="1380"
+   height="22.399"
+   width="35.979511"
    version="1.1"
    id="splitsvg">
+  <style
+     id="style1064"></style>
   <metadata
      id="metadata1062">
     <rdf:RDF>
@@ -31,12 +33,12 @@
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="10.697731"
-     inkscape:cx="1227.1055"
-     inkscape:zoom="0.64565217"
+     inkscape:cy="11.672043"
+     inkscape:cx="58.171975"
+     inkscape:zoom="14.609441"
      showgrid="false"
      id="namedview1058"
-     inkscape:window-height="1249"
+     inkscape:window-height="1308"
      inkscape:window-width="2381"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +49,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <g
-     transform="matrix(0.10078885,0,0,0.10078885,-45.383529,-15.742349)"
+     transform="matrix(0.10078885,0,0,0.10078885,-45.383533,-15.742346)"
      id="svgg">
     <path
        sodipodi:nodetypes="cccsccscccccccccccccccccccccccccssscsccccccccscccccccsscscsscsssccsccccsccccscscccsccccsccccccccccsccccscssssscccsccccscsccsscscccssccsccccccccsccscscsccscccsccssccccsccccccsccsccscssscccccccccssscssccccccccccsccsccscsscccccsccsccccccscccccccscccccsccccccccccscsssscccscccssssscccccscscssccsscccccccccccccccssccccccccccccsccccsccsssccccccscccccccssccccccccccccscsccccccccccccccccccccccccccccccssccccsccsccccccccscccsscccsscscccc"
