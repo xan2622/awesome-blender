@@ -7,17 +7,17 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 <details><summary><a name="table"></a><b>Show Contents:</b></summary>
 
 - [🔮Add-ons](#Add-ons-)
-    - [🌊Simulation/Physics](#SimulationPhysics-)
-    - [🦑Generator/Builder](#GeneratorBuilder-)
     - [🧊Modeling](#Modeling-)
+    - [🦑Generator/Builder](#GeneratorBuilder-)
     - [🖍Retopology/Remesh](#Retopology/Remesh-)
-    - [🌠Animation](#Animation-)
-    - [🦖Game Engine](#Game-Engine-)
-    - [🗜Render Engine](#Render-Engine-)
-    - [💡Lighting](#Lighting-)
     - [🔳Texture/UV](#TextureUV-)
-    - [🎮GameDev](#GameDev-)
+    - [💡Lighting](#Lighting-)
+    - [🌊Simulation/Physics](#SimulationPhysics-)
+    - [🌠Animation](#Animation-)
+    - [🗜Render Engine](#Render-Engine-)
     - [🪀Misc](#Misc-)
+    - [🦖Game Engine](#Game-Engine-)
+    - [🎮GameDev](#GameDev-)
     - [🎴Themes](#Themes-)
 - [🪐Resources](#Resources-)
     - [🎠3D Models](#3D-Models-)
@@ -85,50 +85,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - Check ['List of addons that work with 2.8'](https://blenderartists.org/t/list-of-addons-that-work-with-2-8/1132912) on [blenderartists/scripts](https://blenderartists.org/c/coding/released-scripts-and-themes/50).
 - Get premium add-ons from [BlenderMarket](https://blendermarket.com/products), [Gumroad](https://gumroad.com/discover?query=blender%20addon).
 
-### 🌊Simulation/Physics [^](#table)
-- [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids): is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [[market]](https://blendermarket.com/products/flipfluids)
-- [Jet-Fluids](https://github.com/PavelBlend/blender_jet_fluids_addon): [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.
-- [Mantaflow](http://mantaflow.com/): is an open-source framework targeted at fluid simulation research in Computer Graphics. *Now it is  [part](https://wiki.blender.org/wiki/Reference/Release_Notes/2.82/Physics) of the blender since 2.82 release!* [![][repo]](https://github.com/sebbas/BlenderMantaflow)
-- [projectile](https://gumroad.com/l/projectile): an artist-friendly tool for throwing stuff around inside blender. [![][repo]](https://github.com/natecraddock/projectile)
-- [Phobos](https://github.com/dfki-ric/phobos): Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo.
-- [FishSim](https://github.com/nerk987/FishSim): Fish Swimming Simulator. This addon aims to make it easier to animate natural movements of fish by allowing the animation of targets or proxies, and then simulating the movements required for the fish to follow these targets.
-- [Khaos](https://blendermarket.com/products/khaos-ultimate-explosion-simulator): provides the ability to procedurally add various particle effects including fire explosions, smoke explosions, and various particle debris such as glass, concrete, rocks, tree branches, dirt, metal shrapnel, rebar rods, wood pieces, and sparks! [$]
-- [MassFX](https://gumroad.com/l/hHuFj): Helps quickly populate your scene in a very natural way. Generates clusters of objects assigned to a collection & drops them on any surface. See also its [BlenderArtists thread](https://blenderartists.org/t/massfx-v3-dynamic-physics-painter/1114154). [$]
-- [Object painter](https://gumroad.com/l/ObjectPainter): allows to draw by selected objects on visible scene objects. See also its [BlenderArtists thread](https://blenderartists.org/t/object-painter/1156545). [$]
-
-
-### 🦑Generator/Builder [^](#table)
-- 👤[FaceBuilder](https://www.keentools.io/download/facebuilder-for-blender): is a Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuilder-for-blender-guide-cbb10c717f7c)
-- 🚶🏻‍♀️[MB-Lab](https://mblab.dev/): is a free, open source character creation tool for Blender. [![][repo]](https://github.com/animate1978/MB-Lab)
-- [The Grove 3D](https://www.thegrove3d.com/): Grow natural 3D trees for visualisation and film. Grow, bend, prune, interactively simulate the seasons year by year. [$]
-- [tree-gen](https://github.com/MaximeHerpin/modular_tree/tree/blender_28): procedural generation of tree models in blender.
-- [modular_tree](https://github.com/MaximeHerpin/modular_tree): This addon for blender allows the creation of realistic trees with the node editor.
-- [Real Trees](https://blendermarket.com/products/real-trees): Real Trees is an addon that allows you to easily add realistic tree models in your scene (a collection of models and textures). [More info](https://docs.google.com/document/d/1Pt5sdSKPZZ06tkQsIszrJ76ZLIVa5S9jsJbbLfu86ho/edit). [$]
-- [Realistic Tree Asset Pack](https://blendermarket.com/products/realistic-tree-asset-pack): This set of assets contains 4 Tree Models, including Ash, Maple, Poplar and Spruce with 7-9 unique textures each for randomizing realism! Each tree is rigged and ready for animation. See also its [BlenderArtists thread](lien). [$]
-- [Graswald](https://blendermarket.com/products/graswald?ref=2): Graswald is a professional high-quality asset pack containing different species of weeds, grass, and moss as well as various kinds of debris, packed in a powerful add-on that allows incredible customization. See also its [BlenderArtists thread](https://blenderartists.org/t/graswald-official-releases-and-announcements/1115751). [$]
-- [Scatter](https://blendermarket.com/products/scatter): Scatter is an attempt at making the current scattering workflow of blender more Accessible, Powerful, Extremely Fast and Enjoyable for artists. See also its [BlenderArtists thread](https://blenderartists.org/t/scatter-the-scattering-tool-of-blender-2-8/1177672). [$]
-- [Bricker](https://github.com/bblanimation/bricker): Photoreal Lego/Minecraft Simulations. [[market]](https://www.blendermarket.com/products/bricker)
-- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator): procedurally generate 3D spaceships.
-- [Space Station Generator](https://gumroad.com/curtisjamesholt#iABmB): tool lets you generate sprawling space stations.
-- [Building Tool](https://github.com/ranjian0/building_tool)  : building generation addon for blender.
-- [Procedural Cloudscape Generation](https://blenderartists.org/t/procedural-cloudscape-generation-in-cycles-now-eevee/694700/12) : create pretty realistic looking cloudscapes in Cycles and Eevee.
-- [Real Snow](https://3d-wolf.com/products/snow.html): is an addon to create snow on top of objects. [![][repo]](https://github.com/macio97/Real-Snow)
-- [Welder](https://blenderartists.org/t/welder/672478): welds generator for Blender.
-- [Sprytile](https://github.com/ologon/Sprytile): a blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://itch.io/post/1034106)
-- [Procedural hardsurface](https://github.com/JacquesDiringer/Procedural_hardsurface): A script to generate infinite hardsurface-ish shapes in Blender. Can be used to cut panels or when lacking inspiration. 
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS): Blender addons to make the bridge between Blender and geographic data.
-- [Celtic Knot](https://github.com/BorisTheBrave/celtic-knot/wiki/Gallery): generate bezier curves, pipes and ribbons in elaborate weavings, based off of a framework mesh.
-- [Shape Generator](https://blendermarket.com/products/shape-generator): Quickly create and configure countless random shapes to find ideas and abstract concepts for inspiration, create base meshes for further editing such as spaceships, game assets. [Video](https://www.youtube.com/watch?v=GVAy4BW7-fk). [$]
-- [Archipack](https://blender-archipack.org/): Archipack is a set of parametric architectural objects. See also its [BlenderArtists thread](https://blenderartists.org/t/archipack-1-3-8-18-04-2018/685807). [![][repo]](https://github.com/s-leger/archipack) [More info](https://blender-archipack.gitlab.io/) [$]
-- [Floorboard Generator](https://blenderartists.org/t/a-floor-board-generator/582368/195): generate floor board. [![][repo]](https://github.com/importbpy/Floorboard-Generator)
-- [Piperator](https://yeus.gitlab.io/post/2019-10-18-piperator1/): is an addon for blender which helps generating complex pipe layouts. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693).
-- [Pipe Nightmare](https://github.com/proxeIO/pipenightmare): A simple add-on inspired by the 3DS Max script "Pipe Dreams", can generate a large amount of random pipes, add/remove presets, curve bevel object for each generated pipe, generation seed values for consistent output, respects unit system defined in the properties scene context.
-- [CW Eye](https://www.blendermarket.com/products/cw-eye-a-procedural-eye-material?ref=2): CW Eye is a real procedural material shader tree for Blender. Developed for the Cycles Renderer. See also its [BlenderArtists thread](https://blenderartists.org/t/cw-eye-another-procedural-eye-material/1101434). [$]
-- [Photorealistic Eye Generator](https://www.blendermarket.com/products/photorealistic-eye-generator-): This is a generator of procedural eyes (mathematically generated) based on cycles nodes for Blender, this is able to generate both the part of the iris and the sclera. The part of the iris besides the bump map also works as a displacement map, to get more realistic results. With this product you will be able to generate infinite photorealistic quality eyes. [Video](https://youtu.be/xKVs9ATOdFI) [$]
-- [Plating Generator & Greebles](https://blendermarket.com/products/plating-generator): allows you to quickly generate a plating pattern from a random seed and to select this pattern to extrude the edges accordingly. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). [$]
-- [Configurable Dynamic Jet](https://www.blendermarket.com/products/configurable-dynamic-jet?ref=2): allows you to dynamically configure the basic shape of the aircraft, then leaving you free to edit the base mesh by leaving the Mirror and Subdivision Surface modifiers intact. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). [$]
-- [Greeblefx](https://blendermarket.com/products/greeblefx-non-destructive-greeble-generator): GreebleFx simplifies the creation of panels/greebles/nurnies in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/greeblefx-non-destructive-greeble-tool/656742). [$]
-
 ### 🧊Modeling [^](#table)
 - [Sorcar](https://aachman98.itch.io/sorcar): Procedural modeling in Blender using Node Editor. [![][repo]](https://github.com/aachman98/Sorcar)
 - [Sverchok](http://nikitron.cc.ua/sverchok_en.html): is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok)
@@ -138,40 +94,40 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [F2](https://github.com/Cfyzzz/Other-scripts):  extends Blender’s native functionality for creating faces and should be a great help in your modeling workflow. See also its [BlenderArtists thread](https://blenderartists.org/t/f2/562773/169).
 - [fspy](https://fspy.io/): is an open-source camera matching app, extremely useful for modeling directly from a reference image. [[blender addon]](https://github.com/stuffmatic/fSpy-Blender)
 - [PolyQuilt](https://github.com/sakana3/PolyQuilt): provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [[more info]](https://www.youtube.com/watch?v=VKLPHh3CYCU)
-- [QuickDraw](http://www.alksndr.com/quickdraw): QuickDraw is a tool that automates many of the tedious processes involved in working with Grease Pencil. It creates a very easy way to draw in Grease Pencil and have reasonably solid geometry come out of it with one click. See also its [BlenderArtists thread](https://blenderartists.org/t/quickdraw-sketch-in-grease-pencil-and-convert-to-geo/1174004). [$]
+- [QuickDraw](http://www.alksndr.com/quickdraw) [$]: QuickDraw is a tool that automates many of the tedious processes involved in working with Grease Pencil. It creates a very easy way to draw in Grease Pencil and have reasonably solid geometry come out of it with one click. See also its [BlenderArtists thread](https://blenderartists.org/t/quickdraw-sketch-in-grease-pencil-and-convert-to-geo/1174004). 
 - [Quick Instances](https://gumroad.com/l/qinstance): Creates grouping-like workflow using regular instances. See also its [BlenderArtists thread](https://blenderartists.org/t/quick-instances-groups-addon-grouping-like-workflow/1163351). 
-- [Random Object Array](https://blendermarket.com/products/random-object-array): allows you to create all kinds of object arrays that need some randomization like plants, roof tiles, cobblestone, walls, etc. using a very quick workflow without having to use a particle system. [$]
-- [Ezlattice](https://blendermarket.com/products/ezlattice-blender-add-on-for-deformingreshaping-models-quickly): Quickly adds lattice editing to multiple objects, single objects or selected vertices in edit mode. See also its [BlenderArtists thread](https://blenderartists.org/t/ezlattice-free-plus-2-80-deform-and-reshape-models-quickly/1167836). [$]
-- [Deform Pro](https://blendermarket.com/products/deform-pro): DeformPRO is a tool developed to make mesh deformation more dynamic and user-friendly in Blender 2.8. [$]
-- [Bezier Mesh Shaper](https://blendermarket.com/products/bezier-mesh-shaper): This is a modeling tool that lets you use curves to deform your mesh, allowing you to make beautiful shapes. Useful for blocking and polishing forms of organic and hard surface meshes. See also its [BlenderArtists thread](https://blenderartists.org/t/bezier-mesh-shaper-v0-9-0/1138145). [$]
+- [Random Object Array](https://blendermarket.com/products/random-object-array) [$]: allows you to create all kinds of object arrays that need some randomization like plants, roof tiles, cobblestone, walls, etc. using a very quick workflow without having to use a particle system. 
+- [Ezlattice](https://blendermarket.com/products/ezlattice-blender-add-on-for-deformingreshaping-models-quickly) [$]: Quickly adds lattice editing to multiple objects, single objects or selected vertices in edit mode. See also its [BlenderArtists thread](https://blenderartists.org/t/ezlattice-free-plus-2-80-deform-and-reshape-models-quickly/1167836). 
+- [Deform Pro](https://blendermarket.com/products/deform-pro) [$]: DeformPRO is a tool developed to make mesh deformation more dynamic and user-friendly in Blender 2.8. 
+- [Bezier Mesh Shaper](https://blendermarket.com/products/bezier-mesh-shaper) [$]: This is a modeling tool that lets you use curves to deform your mesh, allowing you to make beautiful shapes. Useful for blocking and polishing forms of organic and hard surface meshes. See also its [BlenderArtists thread](https://blenderartists.org/t/bezier-mesh-shaper-v0-9-0/1138145). 
 - [BezierUtils (Flexi Bezier Tools)](https://github.com/Shriinivas/blenderbezierutils): this add-on contains several tools for working with Bezier curve, similar to Illustrator's curve creation tools. See also its [BlenderArtists thread](https://blenderartists.org/t/flexi-bezier-tool/1168179).
-- [Curves To Mesh](https://blendermarket.com/products/curves-to-mesh): Create and configure mesh surfaces from bezier curves. [$]
+- [Curves To Mesh](https://blendermarket.com/products/curves-to-mesh) [$]: Create and configure mesh surfaces from bezier curves. 
 - [Curve Converter](https://blenderartists.org/t/curve-converter/625244/55): allows you to do is convert the curve to a mesh object and apply that data to a mesh object, without loosing the original curve. You can then update the curve and by clicking “Update Mesh” all that new data is applied to the mesh object. [![][repo]](https://github.com/BlendingJake/Curve-Converter)
 - [Mesh Heal](https://blenderartists.org/t/mesh-heal/1117095): is an add-on for Blender, it includes additional Blender operators for healing surface meshes.
-- [Smart Fill](https://blendermarket.com/products/smart-fill-blender-add-on) : This addon extends the functionally of the fill tool that by default is mapped to the F key in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/smart-fill-addon-1-3-1-blender-2-8/661598). [$]
+- [Smart Fill](https://blendermarket.com/products/smart-fill-blender-add-on) [$]: This addon extends the functionally of the fill tool that by default is mapped to the F key in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/smart-fill-addon-1-3-1-blender-2-8/661598). 
 - [Volume Preserving Smoothing](https://gumroad.com/l/vol_smooth): Addon for Blender for smoothing mesh surfaces without too much of volume loss. See also its [BlenderArtists thread](https://blenderartists.org/t/volume-preserving-smoothing/1115522).
 - [Align Selection to Grease Pencil](https://github.com/Volantk/blender-addon-align-to-gpencil): This script will allow you to align the selection to the current grease pencil stroke. Works with vertices, objects, paths, bezier curves (except Aligned and Free type curves), edit mode bones. See also its [BlenderArtists thread](https://blenderartists.org/t/align-selection-to-grease-pencil-1-2-2-2-80/605909).
 - [Backface Hiding](https://gitlab.com/ChameleonScales/Backface_Hiding): See also its BlenderArtists thread](https://blenderartists.org/t/addon-backface-hiding/700822).
-- [Bmesh Clean](https://blendermarket.com/products/bmesh-clean-add-on): cleans Sketchup models from all the useless edges, faces, vertices [$]
+- [Bmesh Clean](https://blendermarket.com/products/bmesh-clean-add-on) [$]: cleans Sketchup models from all the useless edges, faces, vertices 
 - [optiloops](https://github.com/vilemduha/optiloops): Optiloops is a blender 3d addon for optimizing topology. See also its [BlenderArtists thread](https://blenderartists.org/t/optiloops-new-loops-optimizing-addon/1140235?u=peetie).
 - [Mesh Check BGL](https://gumroad.com/l/mesh_check_BGL_edition):  displays useful informations such as Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated verts, Non-manifold edges. [![][repo]](https://github.com/pistiwique/mesh_check_BGL_edition). See also its [BlenderArtists thread](https://blenderartists.org/t/mesh-check/639166/48).
 - [Destructive Extrude](https://capnm.github.io/b8ExtrudePull/): allows you to pull and push faces of a mesh. [![][repo]](https://github.com/capnm/b8ExtrudePull). Seel also its [BlenderArtists thread](https://blenderartists.org/t/destructive-extrude-beta/678275).
 - [Maxivz's Interactive Tools](https://gumroad.com/l/ynJmIV): Collection of intuitive, context sensitive tools for Blender. They are designed to be used as hotkeys, removing the amount of interaction with the menus and allowing for a less interrupted, more productive modeling experience. [![][repo]](https://github.com/maxivz/interactivetoolsblender). See also its [BlenderArtists thread](https://blenderartists.org/t/interactive-tools-for-blender-2-8/1164932).
 - Selection:
     - [Select panel](https://github.com/xdanielc/select_panel): displays in a panel, most of the selection tools. Usefull for new blender users who don't know yet blender hoykeys. See also its [BlenderArtists thread](https://blenderartists.org/t/select-panel/1200881).
-    - [Smart Select](https://gumroad.com/l/smart_select): Smart select makes selecting things in Blender much more easy. with just one click you can select things that Blender by default can't handle. See also its [BlenderArtists thread](https://blenderartists.org/t/smart-select-1-4-4-this-update-fixes-the-install-issue-and-select-mouse-problems/667800). [$]
+    - [Smart Select](https://gumroad.com/l/smart_select) [$]: Smart select makes selecting things in Blender much more easy. with just one click you can select things that Blender by default can't handle. See also its [BlenderArtists thread](https://blenderartists.org/t/smart-select-1-4-4-this-update-fixes-the-install-issue-and-select-mouse-problems/667800). 
     - [Context Select](https://github.com/Stromberg90/Scripts/tree/master/Blender): Emulates Maya's selections. 
     - [Ray Cast Selection](https://blenderartists.org/t/ray-cast-selection/1141012): allows you to select objects or elements of the mesh by holding the hot key and simply dragging the mouse over the desired objects. 
     - [Paint Select](https://github.com/K-410/blender-scripts/tree/master/2.8): allows you to select objects or elements of the mesh by holding the hot key and simply dragging the mouse over the desired objects.  
 - Hard Surface:
     - [KIT OPS](https://gumroad.com/l/kitops): can create objects and scenes with extreme efficiency and speed. Complex industrial designs can be generated in a single sitting.
-    - [HardOps](lien): Hard Ops is intended to be a (non-destructive) workflow assistant toolkit. Many tools have been added and streamlined to keep you working as fast and efficiently as possible. See also its [BlenderArtists thread](https://blenderartists.org/t/hard-ops-thread/657591). [More info](https://masterxeon1001.com/) [$]
-    - [Boxcutter](https://blendermarket.com/products/boxcutter): Boxcutter is an on-screen 3d view drawing cutter. It allows you to Cut, Slice, Inset, Join, Knife, Extract, Make shapes. See also its [BlenderArtists thread](https://blenderartists.org/t/hard-ops-thread/657591/780). [More info](https://masterxeon1001.com/) [$]
-    - [DECALmachine](https://blendermarket.com/products/DECALmachine): DECALmachine is a blender addon, which through mesh Decals, allows for surface detailing in a very non-committal, non-destructive, UV-less way. And as such, it represents an alternative approach to hard surface texturing. See also its [BlenderArtists thread](https://blenderartists.org/t/decalmachine/688181). [More info](https://masterxeon1001.com/) [$]
-    - [MESHmachine](https://blendermarket.com/products/MESHmachine): MESHmachine is a blender mesh modeling addon with a focus on hard surface work without subdivision surfaces.. See also its [BlenderArtists thread](https://blenderartists.org/t/meshmachine/1102529). [$]
-    - [Fluent](https://gumroad.com/l/HtPBE): Fluent is a modeling add-on focus on non-destructive workflow and easy editing way. See also its [BlenderArtists thread](https://blenderartists.org/t/fluent-hard-surface-modeling-tools/1165523). [$]
-    - [Fluent-PowerTrip](https://gumroad.com/l/fluent_power_trip): Fluent Power Trip contains all features from Fluent +  plate, wire, pipe and grid tools. See also its [BlenderArtists thread](https://blenderartists.org/t/fluent-hard-surface-modeling-tools/1165523). [$]
-    - [Speedflow](https://gumroad.com/l/speedflow): addon for non-destructive workflow. [$]
+    - [HardOps](https://blendermarket.com/products/hardopsofficial) [$]: Hard Ops is intended to be a (non-destructive) workflow assistant toolkit. Many tools have been added and streamlined to keep you working as fast and efficiently as possible. See also its [BlenderArtists thread](https://blenderartists.org/t/hard-ops-thread/657591). [More info](https://masterxeon1001.com/) 
+    - [Boxcutter](https://blendermarket.com/products/boxcutter) [$]: Boxcutter is an on-screen 3d view drawing cutter. It allows you to Cut, Slice, Inset, Join, Knife, Extract, Make shapes. See also its [BlenderArtists thread](https://blenderartists.org/t/hard-ops-thread/657591/780). [More info](https://masterxeon1001.com/) 
+    - [DECALmachine](https://blendermarket.com/products/DECALmachine) [$]: DECALmachine is a blender addon, which through mesh Decals, allows for surface detailing in a very non-committal, non-destructive, UV-less way. And as such, it represents an alternative approach to hard surface texturing. See also its [BlenderArtists thread](https://blenderartists.org/t/decalmachine/688181). [More info](https://masterxeon1001.com/) 
+    - [MESHmachine](https://blendermarket.com/products/MESHmachine) [$]: MESHmachine is a blender mesh modeling addon with a focus on hard surface work without subdivision surfaces.. See also its [BlenderArtists thread](https://blenderartists.org/t/meshmachine/1102529). 
+    - [Fluent](https://gumroad.com/l/HtPBE) [$]: Fluent is a modeling add-on focus on non-destructive workflow and easy editing way. See also its [BlenderArtists thread](https://blenderartists.org/t/fluent-hard-surface-modeling-tools/1165523). 
+    - [Fluent-PowerTrip](https://gumroad.com/l/fluent_power_trip) [$]: Fluent Power Trip contains all features from Fluent +  plate, wire, pipe and grid tools. See also its [BlenderArtists thread](https://blenderartists.org/t/fluent-hard-surface-modeling-tools/1165523). 
+    - [Speedflow](https://gumroad.com/l/speedflow) [$]: addon for non-destructive workflow. See also its [BlenderArtists thread](https://blenderartists.org/t/speedflow-modeling-addon/665326).
     - [Bevel After Boolean](https://blenderartists.org/t/wip-bevel-after-boolean/693072?u=peetie): addon comes in handy when working with booleans that have a curved surface. 
     - [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow/tree/blender_28): This addon adds two operators to blender which both work on edgeloop selections.
     - [Engraver](https://gumroad.com/l/qOyVO): is an Blender addon with set of few tools designed to help carving decals in 3d models.
@@ -179,12 +135,12 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Offset Edges](https://blenderartists.org/t/offset-edges/584283/259): this addon introduces a cad-like feature, which create edges that have consistent distance from original selected ones.
     - [Mesh Utils](https://github.com/rpopovici/mesh-utils): overlapping vert/edge/face, interior faces, edges by trait, and other stuff.
 - Sculpt:
-    - [Speedsculpt](https://gumroad.com/l/SpeedSculpt): The addon allows you to create very fast characters, to manage Dyntopo Sculpting with booleans, cut curves, skin modifier, decimate, mask etc. [$]
+    - [Speedsculpt](https://gumroad.com/l/SpeedSculpt) [$]: The addon allows you to create very fast characters, to manage Dyntopo Sculpting with booleans, cut curves, skin modifier, decimate, mask etc. 
 - Snapping-Align:
     - [Mesh Align Plus](https://github.com/egtwobits/mesh_mesh_align_plus): precisely align, move, and measure+match objects and mesh parts in your 3D scenes.
     - [Easy Align](https://blenderartists.org/t/addon-easy-align/685704): Easy Align addon allows you to align mesh objects origins and align mesh objects to each others easily, it works in both Edit mode and Object mode. [![][repo]](https://github.com/sergeod9/Easy_Align_Addon)
-    - [Originie](https://blendermarket.com/products/Teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on): Originie is an add-on for manipulating the pivot's (the origin in Blender lingo) position with ease. It comes with bunch of tools that would let you move the pivot around as you "wish". See also its [BlenderArtists thread](https://blenderartists.org/t/originie-teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on/1178430). [$]
-    - [Toggle Orbit](https://blendermarket.com/products/toggle-orbit): Addon that adds functionality for toggling the Orbit Method in the 3D Viewport with a hotkey or with buttons added to the Header. [$]
+    - [Originie](https://blendermarket.com/products/Teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on) [$]: Originie is an add-on for manipulating the pivot's (the origin in Blender lingo) position with ease. It comes with bunch of tools that would let you move the pivot around as you "wish". See also its [BlenderArtists thread](https://blenderartists.org/t/originie-teleport-the-pivot-with-magic-a-feature-packed-pivot-master-add-on/1178430). 
+    - [Toggle Orbit](https://blendermarket.com/products/toggle-orbit) [$]: Addon that adds functionality for toggling the Orbit Method in the 3D Viewport with a hotkey or with buttons added to the Header. 
     - [SnapSet](https://github.com/mkbreuer/view3d_snapset): Addon to change the pivot and snap functions at the same time, with modal and full customizable presets. See also its [BlenderArtists thread](https://blenderartists.org/t/menu-snapset-2-79-2-80-2-81a/670634).
 - Mesh Generate/Stylization:
     - [Tissue](https://github.com/alessandro-zomparelli/tissue): add-on for computational design.
@@ -197,65 +153,47 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Fiber Mesh](https://blenderartists.org/t/fiber-mesh-resurrected-for-2-80/1141872): generate fiber meshes.
     - [Laser Slicer](https://github.com/rgsouthall/laser_slicer): cuts up a Blender object and exports the slices to SVG files for cutting on a laser cutter or other post-processing.
 
+### 🦑Generator/Builder [^](#table)
+- [FaceBuilder](https://www.keentools.io/download/facebuilder-for-blender): is a Blender add-on that lets you create photorealistic 3D models of human faces and heads using a few photographs with a neutral face expression. [[medium]](https://medium.com/keentools/facebuilder-for-blender-guide-cbb10c717f7c)
+- [MB-Lab](https://mblab.dev/): is a free, open source character creation tool for Blender. [![][repo]](https://github.com/animate1978/MB-Lab)
+- [The Grove 3D](https://www.thegrove3d.com/) [$]: Grow natural 3D trees for visualisation and film. Grow, bend, prune, interactively simulate the seasons year by year. 
+- [tree-gen](https://github.com/MaximeHerpin/modular_tree/tree/blender_28): procedural generation of tree models in blender.
+- [modular_tree](https://github.com/MaximeHerpin/modular_tree): This addon for blender allows the creation of realistic trees with the node editor.
+- [Real Trees](https://blendermarket.com/products/real-trees) [$]: Real Trees is an addon that allows you to easily add realistic tree models in your scene (a collection of models and textures). [More info](https://docs.google.com/document/d/1Pt5sdSKPZZ06tkQsIszrJ76ZLIVa5S9jsJbbLfu86ho/edit). 
+- [Realistic Tree Asset Pack](https://blendermarket.com/products/realistic-tree-asset-pack) [$]: This set of assets contains 4 Tree Models, including Ash, Maple, Poplar and Spruce with 7-9 unique textures each for randomizing realism! Each tree is rigged and ready for animation. See also its [BlenderArtists thread](lien). 
+- [Graswald](https://blendermarket.com/products/graswald?ref=2) [$]: Graswald is a professional high-quality asset pack containing different species of weeds, grass, and moss as well as various kinds of debris, packed in a powerful add-on that allows incredible customization. See also its [BlenderArtists thread](https://blenderartists.org/t/graswald-official-releases-and-announcements/1115751). 
+- [Scatter](https://blendermarket.com/products/scatter) [$]: Scatter is an attempt at making the current scattering workflow of blender more Accessible, Powerful, Extremely Fast and Enjoyable for artists. See also its [BlenderArtists thread](https://blenderartists.org/t/scatter-the-scattering-tool-of-blender-2-8/1177672). 
+- [Bricker](https://github.com/bblanimation/bricker): Photoreal Lego/Minecraft Simulations. [[market]](https://www.blendermarket.com/products/bricker)
+- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator): procedurally generate 3D spaceships.
+- [Space Station Generator](https://gumroad.com/curtisjamesholt#iABmB): tool lets you generate sprawling space stations.
+- [Building Tool](https://github.com/ranjian0/building_tool)  : building generation addon for blender.
+- [Procedural Cloudscape Generation](https://blenderartists.org/t/procedural-cloudscape-generation-in-cycles-now-eevee/694700/12) : create pretty realistic looking cloudscapes in Cycles and Eevee.
+- [Real Snow](https://3d-wolf.com/products/snow.html): is an addon to create snow on top of objects. [![][repo]](https://github.com/macio97/Real-Snow)
+- [Welder](https://blenderartists.org/t/welder/672478): welds generator for Blender.
+- [Sprytile](https://github.com/ologon/Sprytile): a blender add-on for building tile based low-poly scenes with paint/map editor like tools. [[more info]](https://itch.io/post/1034106)
+- [Procedural hardsurface](https://github.com/JacquesDiringer/Procedural_hardsurface): A script to generate infinite hardsurface-ish shapes in Blender. Can be used to cut panels or when lacking inspiration. 
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS): Blender addons to make the bridge between Blender and geographic data.
+- [Celtic Knot](https://github.com/BorisTheBrave/celtic-knot/wiki/Gallery): generate bezier curves, pipes and ribbons in elaborate weavings, based off of a framework mesh.
+- [Shape Generator](https://blendermarket.com/products/shape-generator) [$]: Quickly create and configure countless random shapes to find ideas and abstract concepts for inspiration, create base meshes for further editing such as spaceships, game assets. [Video](https://www.youtube.com/watch?v=GVAy4BW7-fk). 
+- [Archipack](https://blender-archipack.org/) [$]: Archipack is a set of parametric architectural objects. See also its [BlenderArtists thread](https://blenderartists.org/t/archipack-1-3-8-18-04-2018/685807). [![][repo]](https://github.com/s-leger/archipack) [More info](https://blender-archipack.gitlab.io/) 
+- [Floorboard Generator](https://blenderartists.org/t/a-floor-board-generator/582368/195): generate floor board. [![][repo]](https://github.com/importbpy/Floorboard-Generator)
+- [Piperator](https://yeus.gitlab.io/post/2019-10-18-piperator1/): is an addon for blender which helps generating complex pipe layouts. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-addon-piperator-generation-of-pipe-networks-new-version-with-vertex-color-pipe-control/1186693).
+- [Pipe Nightmare](https://github.com/proxeIO/pipenightmare): A simple add-on inspired by the 3DS Max script "Pipe Dreams", can generate a large amount of random pipes, add/remove presets, curve bevel object for each generated pipe, generation seed values for consistent output, respects unit system defined in the properties scene context.
+- [CW Eye](https://www.blendermarket.com/products/cw-eye-a-procedural-eye-material?ref=2) [$]: CW Eye is a real procedural material shader tree for Blender. Developed for the Cycles Renderer. See also its [BlenderArtists thread](https://blenderartists.org/t/cw-eye-another-procedural-eye-material/1101434). 
+- [Photorealistic Eye Generator](https://www.blendermarket.com/products/photorealistic-eye-generator-) [$]: This is a generator of procedural eyes (mathematically generated) based on cycles nodes for Blender, this is able to generate both the part of the iris and the sclera. The part of the iris besides the bump map also works as a displacement map, to get more realistic results. With this product you will be able to generate infinite photorealistic quality eyes. [Video](https://youtu.be/xKVs9ATOdFI) 
+- [Plating Generator & Greebles](https://blendermarket.com/products/plating-generator) [$]: allows you to quickly generate a plating pattern from a random seed and to select this pattern to extrude the edges accordingly. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). 
+- [Configurable Dynamic Jet](https://www.blendermarket.com/products/configurable-dynamic-jet?ref=2) [$]: allows you to dynamically configure the basic shape of the aircraft, then leaving you free to edit the base mesh by leaving the Mirror and Subdivision Surface modifiers intact. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-plating-generator-dynamic-jet/695193). 
+- [Greeblefx](https://blendermarket.com/products/greeblefx-non-destructive-greeble-generator) [$]: GreebleFx simplifies the creation of panels/greebles/nurnies in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/greeblefx-non-destructive-greeble-tool/656742). 
+
 ### 🖍Retopology/Remesh [^](#table)
 - [Retopoflow](https://blendermarket.com/products/retopoflow) : a suite of retopology tools for Blender. [![][repo]](https://github.com/CGCookie/retopoflow)
 - [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : a suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh)
 - [SpeedRetopo](https://gumroad.com/l/speedretopo) : is a free add-on for Blender to make fast and easy retopology using Bsurface.
 - [Retopo MT](https://gumroad.com/l/cNGNb): is a tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
-- [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan) See also its [BlenderArtists thread](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347). [$]
-- [DynRemesh](https://gumroad.com/l/Luqth): DynRemesh is a quad-based remesher, assisting in retopology for your dyntopo sculpts & 3dscans containing too many tris(triangles). See also its [BlenderArtists thread](https://blenderartists.org/t/dynremesh-2-5-quad-based-remeshing-retopology/1124132). [$]
-- [Exoside Quad Remesher](https://exoside.com/quadremesher/): Quad Remesher is an automatic quad remeshing (or auto retopology) technology. See also its [BlenderArtists thread](https://blenderartists.org/t/quad-remesher-auto-retopologizer/1170913). [$]
-- [Tesselator](https://blendermarket.com/products/tesselator?ref=2): Tesselator is a remeshing addon that helps you create regular quad and triangle meshes easily out of sculpts. See also its [BlenderArtists thread](https://blenderartists.org/t/tesselator-quad-remesher/1131624). [$]
-
-### 🌠Animation [^](#table)
-- [Animation Nodes](https://animation-nodes.com/): A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
-- [Commotion](https://github.com/mrachinskiy/commotion): blender add-on for motion graphics.
-- [Animax](https://blendermarket.com/products/animax---procedural-animation-system-): is a procedural animation system for Blender. Useful for animating multiple objects. [$]
-- [AutoMask](https://github.com/lukas-blecher/AutoMask): a Blender Add-on for automatic rotoscoping with the help of Machine Learning.
-- [COA Tools](https://github.com/ndee85/coa_tools): is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
-- [reflow](https://gitlab.com/diegogangl/reflow): blender addon to change fps.
-- [Keyframe Nudge](https://github.com/okuma10/Keyframe-Nudge): scripts for quick keyframe maniplation.
-- [Real-Time-Animation](https://github.com/SavMartin/Real-Time-Animation-Addon-Update-to-2.80): addon for animating by recording object motion This addon for Blender lets you move objects of any type (including cameras, lights, etc) and bones in 3D space and record their motion as keyframes.
-- [Pose Thumbnails](https://gitlab.com/blender-institute/pose-thumbnails): Pose Thumbnails is a simple add-on which adds the ability to have thumbnails for the poses in a Pose Library.
-- [Action Driver](https://gumroad.com/l/DOezQW): free add-on for Blender 2.8 that behaves similar to Set Driven Key in Maya. 
-- [AnimAide](https://github.com/aresdevo/animaide): gives you the ability to simultaneously manipulate a group of keys across multiple fcurves from either animated objects or animated bones in an armature. See also its [BlenderArtists thread](https://blenderartists.org/t/animaide-free-add-on-for-blender-2-80-to-manipulate-keys-on-a-fcurve/1171558).
-- [Blender muscle Tools](https://blendermarket.com/products/blender-muscle-tools-1-6): gives you the ability to create muscles in Blender for creating more realistic animations and renderings. You can convert every Mesh into a muscle and bind it to your character. Jiggle options and Shape changes are also available. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-muscle-simulator-add-on-available-on-blender-market/621815). [$]
-- [X-Muscle System](https://www.blendermarket.com/products/x-muscle-system): X-Muscle System is an add-on designed for rapid muscular system, tissue and other organic object creation and their physical simulations. Its main purpose is to help visualize better skin surface deformations according to volume preservation of the body muscles, fat and even skeletal bones. [$]
-- [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning): helps you to resolve the message: "bone heat weighting: failed to find solution for one or more bones"; some body parts or accessories are ignored: you have to fix vertex weights by hand; you have spent a long time to fix vertex weights, but you are still not satisfied with the result. [$]
-- [Walker](https://www.blendermarket.com/products/walker?ref=2): Walker System is a character walk animation addon for Blender, it's primary made to work with Rigify, but can be used on other rig systems. See also its [BlenderArtists thread](https://blenderartists.org/t/walker/696838). [$]
-- Writing/Counting: 
-    - [WritingAnimation](https://github.com/Shriinivas/writinganimation), [Typewriter](https://github.com/doakey3/blender-typewriter-addon), [TextCounter](https://github.com/leomoon-studios/leomoon-textcounter/), [GreaseWriter](https://github.com/doakey3/GreaseWriter)
-- Rigging:
-    - [JiggleArmature](https://cheece.github.io/JiggleArmature/): is an easy way to create wiggle effects in blender, just enable jiggle bone on the bones you want to be jiggly. [![][repo]](https://github.com/cheece/JiggleArmature)
-    - [Rigacar](https://github.com/digicreatures/rigacar): generate rig for cars.
-    - [Car-Rig Pro](https://blendermarket.com/products/car-rig-pro-blender-kit): allows you to rig any type of vehicle with four wheels ex: weight heavy, city car, race car etc... [$]
-    - [RigFlex](https://github.com/nerk987/RigFlex): simple soft body for Blender armatures.
-    - [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro?ref=2): Auto-Rig Pro is an advanced automatic rig addon for Blender, for bipeds, quadrupeds and similar characters. See also its [BlenderArtists thread](https://blenderartists.org/t/auto-rig-pro-3-44-released-for-blender-2-8/672834). [$]
-    - [Bone Layer Manager](https://gumroad.com/l/STdb): Assign/Name/Edit bone layers thanks to a UI which enables the user to assign bone layers as buttons on a live Rig UI panel. See also its [BlenderArtists thread](https://blenderartists.org/t/bone-layer-manager-for-blender-2-8x/1141002).
-    - [Freeik](https://www.blendermarket.com/products/freeik?ref=2): Turn basic armature into an animation ready rig in a couple of clicks, features a more intuitive way to pose and animate a model and different posing modes. See also its [BlenderArtists thread](https://blenderartists.org/t/freeik/1157419). [$]
-    - [Rigify for MB-Lab](https://github.com/danielenger/Rigify-for-MB-Lab): This add-on adds a nearly ready-to-use Rigify Meta-Rig for Characters made with the MB-Lab add-on. See also its [BlenderArtists thread](https://blenderartists.org/t/rigify-for-mb-lab-addon-for-an-addon/1140840).
-    - [Spring Bones](https://github.com/artellblender/springbones): Blender addon to add spring/bouncy dynamic effect to bones.
- 
-### 🦖Game Engine [^](#table)
--  [Armory](https://armory3d.org/): is an open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory)
-- [UPBGE](https://upbge.org/): is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
--  [Arsenal](https://katharostech.github.io/arsenal): is a Blender integrated game engine written in Rust. [![][repo]](https://github.com/katharostech/arsenal)
-
-### 🗜Render Engine [^](#table)
-- [appleseed](https://appleseedhq.net/): is an open source, physically-based global illumination rendering engine primarily designed for animation and visual effects. [![][repo]](https://github.com/appleseedhq/appleseed)
-- [LuxCore](https://luxcorerender.org/): LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. [![][repo]](https://github.com/LuxCoreRender/BlendLuxCore)
-- [E-Cycles](https://blendermarket.com/products/e-cycles): is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options. [$]
-- [AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender-blender): This Radeon ProRender plug-in for Blender ​is a feature rich solution which enables the user to render high quality images of their models.
-- [Pixar's RenderMan for Blender](https://github.com/tyler-furby/RenderManForBlender): physically-based render from Pixar. Not officially supported 2.8 there are bunch of plugins made by blender community. [[more info]](https://blenderartists.org/t/pixar-renderman-for-blender/646404/650)
-
-### 💡Lighing [^](#table)
-- [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/): lighting system for Blender.
-- [Gaffer](https://github.com/gregzaal/Gaffer): is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [[market]](https://blendermarket.com/products/gaffer-light-manager/). See also its [BlenderArtists thread](https://blenderartists.org/t/gaffer-a-lighting-hdri-manager-add-on/612871). 
-- [Pro-Lighting: Studio](https://blendermarket.com/products/pro-lighting-studio): Pro-Lighting Studio is a Blender addon that helps you produce gorgeous results, with dozens of interesting lighting suggestions for your model. [$]
-- [Pro-Lighting: Skies](https://blendermarket.com/products/pro-lighting-skies): allows you to instantly change your outdoor lighting to any time of the day, any weather. [$]
-- [Rotate an HDRI](https://gumroad.com/l/XQYEl): Addon allows you to rotate HDRI with the mouse in the style of "Marmoset toolbag" .. See also its [BlenderArtists thread](https://blenderartists.org/t/rotate-an-hdri-addon-for-blender-2-8x/1178283). 
-- [Target Spot](https://blenderartists.org/t/target-spot/1203316): allows you to add a 3dsmax style target spotlight. 
-- [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner): HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+- [BakeMyScan](http://bakemyscan.org/): BakeMyScan is a free blender addon, and aims to provide a fast, powerful and feature-rich toolbox to efficiently optimize 3D models, scans and sculpts for use in mobile/WebGL/AR/VR applications and game engines (Unreal/Unity). [![][repo]](https://github.com/norgeotloic/BakeMyScan) See also its [BlenderArtists thread](https://blenderartists.org/t/bakemyscan-open-source-toolbox-for-asset-optimization/1133347). 
+- [DynRemesh](https://gumroad.com/l/Luqth) [$]: DynRemesh is a quad-based remesher, assisting in retopology for your dyntopo sculpts & 3dscans containing too many tris(triangles). See also its [BlenderArtists thread](https://blenderartists.org/t/dynremesh-2-5-quad-based-remeshing-retopology/1124132). 
+- [Exoside Quad Remesher](https://exoside.com/quadremesher/) [$]: Exoside Quad Remesher is an automatic quad remeshing (or auto retopology) technology. See also its [BlenderArtists thread](https://blenderartists.org/t/quad-remesher-auto-retopologizer/1170913). 
+- [Tesselator](https://blendermarket.com/products/tesselator?ref=2) [$]: Tesselator is a remeshing addon that helps you create regular quad and triangle meshes easily out of sculpts. See also its [BlenderArtists thread](https://blenderartists.org/t/tesselator-quad-remesher/1131624). 
 
 ### 🔳Texture/UV [^](#table)
 - [Poliigon Uber Mapping Node](https://www.dropbox.com/s/b8p5nmg7evqbsd6/PoliigonUberMapping_v1.0.blend): anti-tile node setup for blender. [[more info]](https://youtu.be/CQ9VmCN2EsE?t=456)
@@ -264,27 +202,83 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [UV Toolkit](https://gumroad.com/alexbel#NbMya): Tools collection for UV editing in blender.
 - [TexTools](http://renderhjs.net/textools/blender/): TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/SavMartin/TexTools-Blender)
 - [Magic-UV](https://nutti.github.io/Magic-UV/): This is a blender add-on Magic UV consisted of many UV manipulation features which Blender lack of. [![][repo]](https://github.com/nutti/Magic-UV)
-- [UVPackmaster 2 PRO](https://glukoz.dev/uvp/blender/): UVPackmaster 2 is an efficient UV packing engine. See also its [BlenderArtists thread](https://blenderartists.org/t/uv-packmaster-efficient-uv-packing-solution-for-blender-c-based-multithreaded/1102737). [Market](https://gumroad.com/l/uvpackmaster2) [$]
+- [UVPackmaster 2 PRO](https://glukoz.dev/uvp/blender/) [$]: UVPackmaster 2 is an efficient UV packing engine. See also its [BlenderArtists thread](https://blenderartists.org/t/uv-packmaster-efficient-uv-packing-solution-for-blender-c-based-multithreaded/1102737). [Market](https://gumroad.com/l/uvpackmaster2) 
 - [EasyBake](https://github.com/leukbaars/EasyBake): Texture baking UI for Blender that lives in the 3D Viewport. Small but powerful! Fast one-click baking and iteration.
 - [Principled-Baker](https://github.com/danielenger/Principled-Baker): Bake PBR textures with a few clicks.
 - [PBR Texture Mapper](https://github.com/jayanam/pbr_texture_mapper): create PBR node setup with one click.
 - [Poliigon Material Converter](https://help.poliigon.com/en/articles/2540839-poliigon-material-converter-addon-for-blender): create PBR node setup.
 - [Cycles Texture Paint Layers](https://github.com/David-DiGioia/blender-paint-layers): allows you to quickly create and manipulate layers in Blender’s texture paint mode. You can texture paint entirely in the 3D View with the full functionality of layers, while nodes are being generated behind the scenes, and you don’t have to go through the boilerplate of arranging and rearranging nodes to paint on different textures. See also its [BlenderArtists thread](https://blenderartists.org/t/cycles-texture-paint-layers/1126636). 
-- [Bpainter](https://www.blendermarket.com/products/bpainter): BPainter offers an intuitive layersystem and brush library that you probably know from 2D painting apps. [Video](https://youtu.be/7n_bGhcLnWE). [$]
-- [Layer Painter](https://blendermarket.com/products/layerpainter): the addon offers a powerful layer stack as well as procedural masks and painting features. [More info](https://joshuaknauber.github.io/layerpainter/getting_started/) [$]
+- [Bpainter](https://www.blendermarket.com/products/bpainter) [$]: BPainter offers an intuitive layersystem and brush library that you probably know from 2D painting apps. [Video](https://youtu.be/7n_bGhcLnWE). 
+- [Layer Painter](https://blendermarket.com/products/layerpainter) [$]: the addon offers a powerful layer stack as well as procedural masks and painting features. [More info](https://joshuaknauber.github.io/layerpainter/getting_started/) 
 - [Lily Surface Scrapper](https://github.com/eliemichel/LilySurfaceScrapper): LilySurfaceScrapper suggest a very intuitive and unified workflow: browse your favorite library in your browser. Once you have made your choice, just copy the URL of the page and paste it in Blender. The script will prompt for potential variants if some are detected, then download the maps and setup the material.. See also its [BlenderArtists thread](https://blenderartists.org/t/2-80-lily-surface-scrapper-import-material-from-a-simple-url/1157897). 
-- [Super Texture](https://blendermarket.com/products/super-texture?ref=2): Super Texture is a one-click addon for generating multiple PBR maps from a single image. See also its [BlenderArtists thread](https://blenderartists.org/t/super-texture-node-based-pbr-texture-generation/1143509). [$]
+- [Super Texture](https://blendermarket.com/products/super-texture?ref=2) [$]: Super Texture is a one-click addon for generating multiple PBR maps from a single image. See also its [BlenderArtists thread](https://blenderartists.org/t/super-texture-node-based-pbr-texture-generation/1143509). 
 - [Pixelate Node](https://gumroad.com/l/aIehP): With this nodegroup you can pixelate any texture. Simply pass your texture coordinates through it and adjust the pixel count. 
-- [Image Node Preview](https://blendermarket.com/products/image-node-preview):  shows thumbnails for image texture nodes in the node editor. See also its [BlenderArtists thread](https://blenderartists.org/t/image-node-preview/1191660). [$]
-- [Node Custom Builder](https://blendermarket.com/products/nodecustombuilder?ref=2): allows you to save your node trees and use them in your other projects. See also its [BlenderArtists thread](https://blenderartists.org/t/nodecustombuilder-2-8/1152185). [$]
-- [Node Kit](https://blendermarket.com/products/node-kit): Node Kit is a convenient way to manage your nodes in Blender. You can easily save your nodes in a global preset, and then restore it to any object later on even in another blend file opening. You can also export all of your presets into a file and then import this file to another blender running in your other computers. See also its [BlenderArtists thread](https://blenderartists.org/t/node-kit-blender-add-on-to-manage-save-and-restore-nodes-in-node-editor/1166494). [$]
+- [Image Node Preview](https://blendermarket.com/products/image-node-preview) [$]: shows thumbnails for image texture nodes in the node editor. See also its [BlenderArtists thread](https://blenderartists.org/t/image-node-preview/1191660). 
+- [Node Custom Builder](https://blendermarket.com/products/nodecustombuilder?ref=2) [$]: allows you to save your node trees and use them in your other projects. See also its [BlenderArtists thread](https://blenderartists.org/t/nodecustombuilder-2-8/1152185). 
+- [Node Kit](https://blendermarket.com/products/node-kit) [$]: Node Kit is a convenient way to manage your nodes in Blender. You can easily save your nodes in a global preset, and then restore it to any object later on even in another blend file opening. You can also export all of your presets into a file and then import this file to another blender running in your other computers. See also its [BlenderArtists thread](https://blenderartists.org/t/node-kit-blender-add-on-to-manage-save-and-restore-nodes-in-node-editor/1166494). 
 - [Matalogue](https://github.com/gregzaal/Matalogue): displays a list of materials and other node trees right in the toolbar of the Node Editor. See also its [BlenderArtists thread](https://blenderartists.org/t/add-on-matalogue/648455). 
-- [All Material List](https://blendermarket.com/products/all-material-list): List, Rename, Select, Assign, Delete, Check for path, Broken links (...) all materials and images in your project. See also its [BlenderArtists thread](https://blenderartists.org/t/all-material-list/1162012). [$]
-- [Color Palette Node](https://blendermarket.com/products/color-palette-node):  allows you to customize the color of all the objects in the scene that are connected to the node color palette. This node allows you to create colorful, trendy color palettes for your projects. See also its [BlenderArtists thread](https://blenderartists.org/t/color-palette-node-cpn/675614). [$]
+- [All Material List](https://blendermarket.com/products/all-material-list) [$]: List, Rename, Select, Assign, Delete, Check for path, Broken links (...) all materials and images in your project. See also its [BlenderArtists thread](https://blenderartists.org/t/all-material-list/1162012). 
+- [Color Palette Node](https://blendermarket.com/products/color-palette-node) [$]: allows you to customize the color of all the objects in the scene that are connected to the node color palette. This node allows you to create colorful, trendy color palettes for your projects. See also its [BlenderArtists thread](https://blenderartists.org/t/color-palette-node-cpn/675614). 
 - [Palette Generator](https://github.com/mac7ua/Palette-Generator): a color palette generator. See also its [BlenderArtists thread](https://blenderartists.org/t/palette-generator/1180564). 
-- [Extreme Pbr Combo](https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2): provides more than 1100+ pbr materials ready to use. [$]
-- [Pbr Texture Bakery ](https://blendermarket.com/products/pbr-texture-bakery-for-cycles): The PBR Texture Bakery is an addon for Blender that allows you to bake complex Eevee/Cycles-materials to PBR-textures. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-2-8-pbr-texture-bakery-materials-to-pbr-textures/1176443). [$]
-- [Rapid Pbr Material Creator](https://blendermarket.com/products/RapidPBRMaterialCreator): Rapid PBR Material Creator is an addon that simplifies the creation of PBR materials to a SINGLE click. See also its [BlenderArtists thread](https://blenderartists.org/t/rapid-pbr-material-creator-import-pbr-materials-with-one-click/1145870). [$]
+- [Extreme Pbr Combo](https://blendermarket.com/products/extreme-pbr-addon-for-blender-279-2) [$]: provides more than 1100+ pbr materials ready to use. 
+- [Pbr Texture Bakery ](https://blendermarket.com/products/pbr-texture-bakery-for-cycles) [$]: The PBR Texture Bakery is an addon for Blender that allows you to bake complex Eevee/Cycles-materials to PBR-textures. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-2-8-pbr-texture-bakery-materials-to-pbr-textures/1176443). 
+- [Rapid Pbr Material Creator](https://blendermarket.com/products/RapidPBRMaterialCreator) [$]: Rapid PBR Material Creator is an addon that simplifies the creation of PBR materials to a SINGLE click. See also its [BlenderArtists thread](https://blenderartists.org/t/rapid-pbr-material-creator-import-pbr-materials-with-one-click/1145870). 
+
+### 💡Lighing [^](#table)
+- [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/): lighting system for Blender.
+- [Gaffer](https://github.com/gregzaal/Gaffer): is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [[market]](https://blendermarket.com/products/gaffer-light-manager/). See also its [BlenderArtists thread](https://blenderartists.org/t/gaffer-a-lighting-hdri-manager-add-on/612871). 
+- [Pro-Lighting: Studio](https://blendermarket.com/products/pro-lighting-studio) [$]: Pro-Lighting Studio is a Blender addon that helps you produce gorgeous results, with dozens of interesting lighting suggestions for your model. 
+- [Pro-Lighting: Skies](https://blendermarket.com/products/pro-lighting-skies) [$]: allows you to instantly change your outdoor lighting to any time of the day, any weather. 
+- [Rotate an HDRI](https://gumroad.com/l/XQYEl): Addon allows you to rotate HDRI with the mouse in the style of "Marmoset toolbag" .. See also its [BlenderArtists thread](https://blenderartists.org/t/rotate-an-hdri-addon-for-blender-2-8x/1178283). 
+- [Target Spot](https://blenderartists.org/t/target-spot/1203316): allows you to add a 3dsmax style target spotlight. 
+- [HDRI Sun Aligner](https://github.com/akej74/hdri-sun-aligner): HDRI Sun Aligner is a Blender 2.8 addon for automatically rotating an object (e.g. a sun) to match the brightest point in a HDRI environment texture.
+
+### 🌊Simulation/Physics [^](#table)
+- [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids): is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [[market]](https://blendermarket.com/products/flipfluids)
+- [Jet-Fluids](https://github.com/PavelBlend/blender_jet_fluids_addon): [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) simulator integration in blender.
+- [Mantaflow](http://mantaflow.com/): is an open-source framework targeted at fluid simulation research in Computer Graphics. *Now it is  [part](https://wiki.blender.org/wiki/Reference/Release_Notes/2.82/Physics) of the blender since 2.82 release!* [![][repo]](https://github.com/sebbas/BlenderMantaflow)
+- [projectile](https://gumroad.com/l/projectile): an artist-friendly tool for throwing stuff around inside blender. [![][repo]](https://github.com/natecraddock/projectile)
+- [Phobos](https://github.com/dfki-ric/phobos): Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo.
+- [FishSim](https://github.com/nerk987/FishSim): Fish Swimming Simulator. This addon aims to make it easier to animate natural movements of fish by allowing the animation of targets or proxies, and then simulating the movements required for the fish to follow these targets.
+- [Khaos](https://blendermarket.com/products/khaos-ultimate-explosion-simulator) [$]: provides the ability to procedurally add various particle effects including fire explosions, smoke explosions, and various particle debris such as glass, concrete, rocks, tree branches, dirt, metal shrapnel, rebar rods, wood pieces, and sparks! 
+- [MassFX](https://gumroad.com/l/hHuFj) [$]: Helps quickly populate your scene in a very natural way. Generates clusters of objects assigned to a collection & drops them on any surface. See also its [BlenderArtists thread](https://blenderartists.org/t/massfx-v3-dynamic-physics-painter/1114154). 
+- [Object painter](https://gumroad.com/l/ObjectPainter) [$]: allows to draw by selected objects on visible scene objects. See also its [BlenderArtists thread](https://blenderartists.org/t/object-painter/1156545). 
+
+### 🌠Animation [^](#table)
+- [Animation Nodes](https://animation-nodes.com/): A node based visual scripting system designed for motion graphics in Blender. [![][repo]](https://github.com/JacquesLucke/animation_nodes)
+- [Commotion](https://github.com/mrachinskiy/commotion): blender add-on for motion graphics.
+- [Animax](https://blendermarket.com/products/animax---procedural-animation-system-) [$]: is a procedural animation system for Blender. Useful for animating multiple objects. 
+- [AutoMask](https://github.com/lukas-blecher/AutoMask): a Blender Add-on for automatic rotoscoping with the help of Machine Learning.
+- [COA Tools](https://github.com/ndee85/coa_tools): is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
+- [reflow](https://gitlab.com/diegogangl/reflow): blender addon to change fps.
+- [Keyframe Nudge](https://github.com/okuma10/Keyframe-Nudge): scripts for quick keyframe maniplation.
+- [Real-Time-Animation](https://github.com/SavMartin/Real-Time-Animation-Addon-Update-to-2.80): addon for animating by recording object motion This addon for Blender lets you move objects of any type (including cameras, lights, etc) and bones in 3D space and record their motion as keyframes.
+- [Pose Thumbnails](https://gitlab.com/blender-institute/pose-thumbnails): Pose Thumbnails is a simple add-on which adds the ability to have thumbnails for the poses in a Pose Library.
+- [Action Driver](https://gumroad.com/l/DOezQW): free add-on for Blender 2.8 that behaves similar to Set Driven Key in Maya. 
+- [AnimAide](https://github.com/aresdevo/animaide): gives you the ability to simultaneously manipulate a group of keys across multiple fcurves from either animated objects or animated bones in an armature. See also its [BlenderArtists thread](https://blenderartists.org/t/animaide-free-add-on-for-blender-2-80-to-manipulate-keys-on-a-fcurve/1171558).
+- [Blender muscle Tools](https://blendermarket.com/products/blender-muscle-tools-1-6) [$]: gives you the ability to create muscles in Blender for creating more realistic animations and renderings. You can convert every Mesh into a muscle and bind it to your character. Jiggle options and Shape changes are also available. See also its [BlenderArtists thread](https://blenderartists.org/t/blender-muscle-simulator-add-on-available-on-blender-market/621815). 
+- [X-Muscle System](https://www.blendermarket.com/products/x-muscle-system) [$]: X-Muscle System is an add-on designed for rapid muscular system, tissue and other organic object creation and their physical simulations. Its main purpose is to help visualize better skin surface deformations according to volume preservation of the body muscles, fat and even skeletal bones. 
+- [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning) [$]: helps you to resolve the message: "bone heat weighting: failed to find solution for one or more bones"; some body parts or accessories are ignored: you have to fix vertex weights by hand; you have spent a long time to fix vertex weights, but you are still not satisfied with the result. 
+- [Walker](https://www.blendermarket.com/products/walker?ref=2) [$]: Walker System is a character walk animation addon for Blender, it's primary made to work with Rigify, but can be used on other rig systems. See also its [BlenderArtists thread](https://blenderartists.org/t/walker/696838). 
+- Writing/Counting: 
+    - [WritingAnimation](https://github.com/Shriinivas/writinganimation), [Typewriter](https://github.com/doakey3/blender-typewriter-addon), [TextCounter](https://github.com/leomoon-studios/leomoon-textcounter/), [GreaseWriter](https://github.com/doakey3/GreaseWriter)
+- Rigging:
+    - [JiggleArmature](https://cheece.github.io/JiggleArmature/): is an easy way to create wiggle effects in blender, just enable jiggle bone on the bones you want to be jiggly. [![][repo]](https://github.com/cheece/JiggleArmature)
+    - [Rigacar](https://github.com/digicreatures/rigacar): generate rig for cars.
+    - [Car-Rig Pro](https://blendermarket.com/products/car-rig-pro-blender-kit) [$]: allows you to rig any type of vehicle with four wheels ex: weight heavy, city car, race car etc... 
+    - [RigFlex](https://github.com/nerk987/RigFlex): simple soft body for Blender armatures.
+    - [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro?ref=2) [$]: Auto-Rig Pro is an advanced automatic rig addon for Blender, for bipeds, quadrupeds and similar characters. See also its [BlenderArtists thread](https://blenderartists.org/t/auto-rig-pro-3-44-released-for-blender-2-8/672834). 
+    - [Bone Layer Manager](https://gumroad.com/l/STdb): Assign/Name/Edit bone layers thanks to a UI which enables the user to assign bone layers as buttons on a live Rig UI panel. See also its [BlenderArtists thread](https://blenderartists.org/t/bone-layer-manager-for-blender-2-8x/1141002).
+    - [Freeik](https://www.blendermarket.com/products/freeik?ref=2) [$]: Turn basic armature into an animation ready rig in a couple of clicks, features a more intuitive way to pose and animate a model and different posing modes. See also its [BlenderArtists thread](https://blenderartists.org/t/freeik/1157419). 
+    - [Rigify for MB-Lab](https://github.com/danielenger/Rigify-for-MB-Lab): This add-on adds a nearly ready-to-use Rigify Meta-Rig for Characters made with the MB-Lab add-on. See also its [BlenderArtists thread](https://blenderartists.org/t/rigify-for-mb-lab-addon-for-an-addon/1140840).
+    - [Spring Bones](https://github.com/artellblender/springbones): Blender addon to add spring/bouncy dynamic effect to bones.
+ 
+### 🗜Render Engines [^](#table)
+- [appleseed](https://appleseedhq.net/): is an open source, physically-based global illumination rendering engine primarily designed for animation and visual effects. [![][repo]](https://github.com/appleseedhq/appleseed)
+- [LuxCore](https://luxcorerender.org/): LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. [![][repo]](https://github.com/LuxCoreRender/BlendLuxCore)
+- [E-Cycles](https://blendermarket.com/products/e-cycles) [$]: is a fork of Cycles which renders up to 2.5x faster out of the box when using CUDA GPUs, up to 15x using new options. 
+- [AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender-blender): This Radeon ProRender plug-in for Blender ​is a feature rich solution which enables the user to render high quality images of their models.
+- [Pixar's RenderMan for Blender](https://github.com/tyler-furby/RenderManForBlender): physically-based render from Pixar. Not officially supported 2.8 there are bunch of plugins made by blender community. [[more info]](https://blenderartists.org/t/pixar-renderman-for-blender/646404/650)
 
 ### 🪀Misc [^](#table)
 - Management:
@@ -309,7 +303,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [BatchRender](https://github.com/VertStretch/RenderBurst), [Notify](https://github.com/Dziban-dev/Notify_Blender_Render), [AlarmShutdown](https://gumroad.com/l/PcDfw), [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton), 
     - [Render Button & Camera Manager](https://blenderartists.org/t/render-button-camera-manager-for-blender-2-81-update-07-01-2020-v0-3-7/1159414): displays a big render button and features many camera related options.
     - [Blender Suspender](https://gumroad.com/l/bpupp): allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
-    - [Render+](https://blendermarket.com/products/render): Render+ keeps track of your rendertimes so you don't have to.  Useful metrics like the average, slowest and fastest frame time help you improve your scenes. While the estimated remaining let's you plan ahead. [$]
+    - [Render+](https://blendermarket.com/products/render) [$]: Render+ keeps track of your rendertimes so you don't have to.  Useful metrics like the average, slowest and fastest frame time help you improve your scenes. While the estimated remaining let's you plan ahead. 
     - [Auto Render Tile Size](https://gregzaal.github.io/auto-tile-size/): Never worry about unecessarily slow render times or having to change tile sizes every time you switch between CPU and GPU rendering again. [![][repo]](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/blob_plain/HEAD:/render_auto_tile_size.py) [Other repository](https://github.com/gregzaal/Auto-Render-Tile-Size) 
 - [EasyFX](https://github.com/DoubleZZ/EasyFX-2.8): allows you to do post-production directly from the image editor, and EasyFX will automatically build your composition node tree. Once an image has been rendered you can easily start enabling effects, tweak values and manipulate the image to your liking. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-easyfx-post-production-done-directly-in-the-image-editor/655920). 
 - Camera:
@@ -323,7 +317,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Shortcut VUr](https://github.com/jayanam/shortcut_VUr): with this addon you can display mouse and keyboard input.
     - [ExtraInfo](https://gumroad.com/l/UznDL): Show more info in the viewport.
     - [AStats](https://github.com/YuriyAndropov/blenderPython/tree/master/AStats): Show Stats in Viewport.
-    - [Dolly Zoom & Truck Shift Navigation](https://gumroad.com/l/dolly_zoom_truck_shift): It's a modal tool that lets you change the angle and shift of your camera lens while keeping it focused on the 3D cursor. Use this to align your camera with background images (when modeling with reference) or for getting that perfect framing for your renders. See also its [BlenderArtists thread](https://blenderartists.org/t/camera-perspective-tool/699982). [$]
+    - [Dolly Zoom & Truck Shift Navigation](https://gumroad.com/l/dolly_zoom_truck_shift) [$]: It's a modal tool that lets you change the angle and shift of your camera lens while keeping it focused on the 3D cursor. Use this to align your camera with background images (when modeling with reference) or for getting that perfect framing for your renders. See also its [BlenderArtists thread](https://blenderartists.org/t/camera-perspective-tool/699982). 
     - [2D Roll Viewport](https://gumroad.com/l/2d_roll_viewport): Rolls the Viewport as if it's a 2D canvas. See also [this RightClickSelect](https://blender.community/c/today/4cdbbc/) message.
     - [Polycount](https://www.nothing-is-3d.com/article31/polycount-a-blender-addon-helping-to-know-about-your-polycount): A Blender 2.8 addon helping to know about your scene polycount. [![][repo]](https://github.com/Vinc3r/Polycount#polycount)
     - [Floating Windows](https://blendermarket.com/products/floating-windows---the-missing-feature-of-blender-2): This addon give new possibilities for its users, like for example working in full screen in the node editor while having a preview of your material floating in your workspace. See also its [BlenderArtists thread](https://blenderartists.org/t/floating-windows-the-missing-feature-of-blender-2-8-release/1163493).
@@ -343,11 +337,10 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752): Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
 - [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater): For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
 
-### 🎴Themes [^](#table)
-- [Blender Pro](https://github.com/paulcoops/blender_pro-theme), [80's](https://gumroad.com/l/fWkBi), [Xsi Winter](https://blenderartists.org/t/theme-xsi-winter-pro-blender-2-80/1177994), [Awesome](https://blenderartists.org/t/awesome-theme-for-blender-2-8/1120656), [Fresh Snow](https://devtalk.blender.org/t/call-for-content-themes/3174/345), [Nord](https://devtalk.blender.org/t/call-for-content-themes/3174/382)
-    - [Call for Content: Themes](https://devtalk.blender.org/t/call-for-content-themes/3174)
-    - [Theme Development - Paper Cuts](https://devtalk.blender.org/t/theme-development-paper-cuts/9715)
-    - [Blender UI Paper Cuts](https://devtalk.blender.org/t/blender-ui-paper-cuts/2596)
+### 🦖Game Engines [^](#table)
+- [Armory](https://armory3d.org/): is an open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory)
+- [UPBGE](https://upbge.org/): is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge)
+- [Arsenal](https://katharostech.github.io/arsenal): is a Blender integrated game engine written in Rust. [![][repo]](https://github.com/katharostech/arsenal)
 
 ### 🎮GameDev [^](#table)
 - [MeshSync](https://github.com/unity3d-jp/MeshSync): live link plugin for Unity. supported blender and other 3d softwares.
@@ -356,6 +349,12 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [V-HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822): library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd)
 - [Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools): made easy importing mixamo animations. tools to ease the creation/import process of assets into Godot Game Engine and others.
 - [Embark Blender Tools](https://github.com/EmbarkStudios/blender-tools) : a Blender add-on containing workflow tools for game development. Includes tools for standardized import/export workflow, 3D modelling and new object types. [[medium]](https://medium.com/embarkstudios/a-love-letter-to-blender-e54167c22193)
+
+### 🎴Themes [^](#table)
+- [Blender Pro](https://github.com/paulcoops/blender_pro-theme), [80's](https://gumroad.com/l/fWkBi), [Xsi Winter](https://blenderartists.org/t/theme-xsi-winter-pro-blender-2-80/1177994), [Awesome](https://blenderartists.org/t/awesome-theme-for-blender-2-8/1120656), [Fresh Snow](https://devtalk.blender.org/t/call-for-content-themes/3174/345), [Nord](https://devtalk.blender.org/t/call-for-content-themes/3174/382)
+    - [Call for Content: Themes](https://devtalk.blender.org/t/call-for-content-themes/3174)
+    - [Theme Development - Paper Cuts](https://devtalk.blender.org/t/theme-development-paper-cuts/9715)
+    - [Blender UI Paper Cuts](https://devtalk.blender.org/t/blender-ui-paper-cuts/2596)
 
 --------------
 <!-- Contributing Guidelines for Resources:
@@ -377,7 +376,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free): Free models from turbosquid
 - [Clara.io](https://clara.io/library): Free 3D Modeling, Rendering, Sharing and Models.
 - [3D Warehouse](https://3dwarehouse.sketchup.com/search/): Download sketchup models.
-- [KitBash3d](https://kitbash3d.com/): makes premium 3D assets for VFX, concept art and design. Their 3D model kits have immediately been adopted by the industry's top artists, studios. *Get Mini-Kit: [Post-Apocalypse](https://kitbash3d.com/collections/kits/products/mini-kit-post-apocalypse)* for free. [$]
+- [KitBash3d](https://kitbash3d.com/) [$]: makes premium 3D assets for VFX, concept art and design. Their 3D model kits have immediately been adopted by the industry's top artists, studios. *Get Mini-Kit: [Post-Apocalypse](https://kitbash3d.com/collections/kits/products/mini-kit-post-apocalypse)* for free. 
 - [Awesome-3D-Meshes](https://github.com/jvm-graphics-labs/awesome-3d-meshes/): List of famous 3D meshes.
 - Scanned Models:
     - [Scanned Female Head Model by EISKO](https://eisko.com/louise/virtual-model), [Free Hard Surface KitBash Models](https://gumroad.com/olegushenok?sort=page_layout&tags=free), [Scanned 3D People from Renderpeople](https://renderpeople.com/free-3d-people/), [Scans from Louvre Museum](https://gumroad.com/l/xAQxj), [Scanned Models from Smithsonian](https://3d.si.edu/download-browser), [Free 3D Head Model](https://www.3dscanstore.com/blog/Free-3D-Head-Model).
@@ -402,10 +401,10 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - ☆[Textures.one](https://textures.one/): Search the databases of many of the biggest free texture at once.
 - [Texture.Ninja](https://texture.ninja/): Public domain photographic textures, reference images, cutouts.
 - [3DXO](https://www.3dxo.com): Free 3D Models, seamless Textures, Backgrounds, Photos & Graphics.
-- [Textures.com](https://www.textures.com/): is a website that offers digital pictures of all sorts of materials. Sign up for free and download 15 free images every day! [$]
-- [Substance Source/freebies](https://source.substance3d.com/allassets?free=true): Hundreds of high quality PBR materials. [$]
-- [Poliigon/freebies](https://www.poliigon.com/search?type=all&refine_by=assets-free): A library of materials, and HDR's for artists including free textures that want photorealism. [$]
-- [Texturing.xyz](https://texturing.xyz/): Our textures are used in the biggest and industry-leading VFX companies, and help them achieving their goals faster. [$]
+- [Textures.com](https://www.textures.com/) [$]: is a website that offers digital pictures of all sorts of materials. Sign up for free and download 15 free images every day! 
+- [Substance Source/freebies](https://source.substance3d.com/allassets?free=true) [$]: Hundreds of high quality PBR materials. 
+- [Poliigon/freebies](https://www.poliigon.com/search?type=all&refine_by=assets-free) [$]: A library of materials, and HDR's for artists including free textures that want photorealism. 
+- [Texturing.xyz](https://texturing.xyz/) [$]: Our textures are used in the biggest and industry-leading VFX companies, and help them achieving their goals faster. 
 - Others:
     - [gumroad/lebedev](https://gumroad.com/lebedev), [3d-wolf/textures](https://3d-wolf.com/products/textures.html), [Nikola Damjanov's 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V), [Photogrammetry Bark Textures](https://www.artstation.com/artwork/GJeVz), [artstation/deepmind](https://www.artstation.com/deepmind/albums/89651).
 
@@ -493,7 +492,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Neobarok](http://neobarok.com/): Intuitive and free 3D modeling software for everyone.
 - [DJV](https://darbyjohnston.github.io/DJV/): Professional image sequence, media review software for VFX, animation, and film production. [![][repo]](https://github.com/darbyjohnston/DJV)
 - Blender Tools:
-    - [B-Renderon](https://blendermarket.com/products/b-renderon): a standalone program with a nice and handy graphical interface to render multiple blend files from command line, without bothering with (or even seeing, unless you want to) the command line. See also its [BlenderArtists thread](https://blenderartists.org/t/b-renderon-standalone-render-manager-for-blender/1152894). [$]
+    - [B-Renderon](https://blendermarket.com/products/b-renderon) [$]: a standalone program with a nice and handy graphical interface to render multiple blend files from command line, without bothering with (or even seeing, unless you want to) the command line. See also its [BlenderArtists thread](https://blenderartists.org/t/b-renderon-standalone-render-manager-for-blender/1152894). 
     - [BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater): download and install nightly builds with one click.
     - [BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI): command line version of BlenderUpdater.
 - Fractal:
@@ -537,7 +536,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [TerreSculptor](http://www.demenzunmedia.com/home/terresculptor/): is a terrain creation and editing software. It is completely free.
 - [World Machine](https://www.world-machine.com/): command powerful tools like erosion and advanced colormaps to create terrain heightmaps, meshes, and textures for your game or 3D scene. You can use the Basic Edition for free.
 - [Terragen](https://planetside.co.uk/free-downloads/): ray-tracing supported terrain generator. There is free version with some limitations.
-- [World Creator](https://www.world-creator.com/): is a real-time terrain generator and landscape generator. [$]
+- [World Creator](https://www.world-creator.com/) [$]: is a real-time terrain generator and landscape generator. 
 - [Gaea](https://quadspinner.com/): Sophisticated and modern terrain design software for apex results in moments. There is Community Free edition with some limitations.
 
 --------------
