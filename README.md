@@ -14,9 +14,9 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [💡Lighting](#Lighting-)
     - [🌊Simulation/Physics](#SimulationPhysics-)
     - [🌠Animation](#Animation-)
-    - [🗜Render Engine](#Render-Engine-)
+    - [🗜Render Engines](#Render-Engines-)
     - [🪀Misc](#Misc-)
-    - [🦖Game Engine](#Game-Engine-)
+    - [🦖Game Engines](#Game-Engines-)
     - [🎮GameDev](#GameDev-)
     - [🎴Themes](#Themes-)
 - [🪐Resources](#Resources-)
@@ -224,7 +224,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Pbr Texture Bakery ](https://blendermarket.com/products/pbr-texture-bakery-for-cycles) [$]: The PBR Texture Bakery is an addon for Blender that allows you to bake complex Eevee/Cycles-materials to PBR-textures. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-2-8-pbr-texture-bakery-materials-to-pbr-textures/1176443). 
 - [Rapid Pbr Material Creator](https://blendermarket.com/products/RapidPBRMaterialCreator) [$]: Rapid PBR Material Creator is an addon that simplifies the creation of PBR materials to a SINGLE click. See also its [BlenderArtists thread](https://blenderartists.org/t/rapid-pbr-material-creator-import-pbr-materials-with-one-click/1145870). 
 
-### 💡Lighing [^](#table)
+### 💡Lighting [^](#table)
 - [LeoMoon LightStudio](https://leomoon.com/downloads/plugins/leomoon-lightstudio/): lighting system for Blender.
 - [Gaffer](https://github.com/gregzaal/Gaffer): is a Blender add-on that helps you light your scenes by presenting all the right settings in convenient panels for quick access and experimentation. [[market]](https://blendermarket.com/products/gaffer-light-manager/). See also its [BlenderArtists thread](https://blenderartists.org/t/gaffer-a-lighting-hdri-manager-add-on/612871). 
 - [Pro-Lighting: Studio](https://blendermarket.com/products/pro-lighting-studio) [$]: Pro-Lighting Studio is a Blender addon that helps you produce gorgeous results, with dozens of interesting lighting suggestions for your model. 
