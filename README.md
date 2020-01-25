@@ -91,7 +91,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [MACHIN3tools](https://gumroad.com/l/MACHIN3tools): is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [[market]](https://blendermarket.com/products/MACHIN3tools) 
 - [QBlocker](https://qblockerdocs.readthedocs.io/):  is an interactive object creation tool for Blender.
 - [Wonder Mesh](https://github.com/WiresoulStudio/W_Mesh_28x): Wonder Mesh lets you create and edit parametric primitives in Blender. See also its [BlenderArtists thread](https://blenderartists.org/t/wonder-mesh/1172452). [Market](https://blendermarket.com/products/wonder-mesh)
-- [F2](https://github.com/Cfyzzz/Other-scripts):  extends Blender’s native functionality for creating faces and should be a great help in your modeling workflow. See also its [BlenderArtists thread](https://blenderartists.org/t/f2/562773/169).
+- [F2](https://github.com/Cfyzzz/Other-scripts):  extends Blender’s native functionality for creating faces and should be a great help in your modeling workflow. [ba-logo](https://blenderartists.org/t/f2/562773/169) See also its [BlenderArtists thread](https://blenderartists.org/t/f2/562773/169).
 - [fspy](https://fspy.io/): is an open-source camera matching app, extremely useful for modeling directly from a reference image. [[blender addon]](https://github.com/stuffmatic/fSpy-Blender)
 - [PolyQuilt](https://github.com/sakana3/PolyQuilt): provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [[more info]](https://www.youtube.com/watch?v=VKLPHh3CYCU)
 - [QuickDraw](http://www.alksndr.com/quickdraw) [$]: QuickDraw is a tool that automates many of the tedious processes involved in working with Grease Pencil. It creates a very easy way to draw in Grease Pencil and have reasonably solid geometry come out of it with one click. See also its [BlenderArtists thread](https://blenderartists.org/t/quickdraw-sketch-in-grease-pencil-and-convert-to-geo/1174004). 
@@ -868,5 +868,6 @@ Thanks for reading!
 
 <!-- markdown references -->
 [bl-logo]: imgs/blender.svg
+[ba-logo]: imgs/BlenderArtists.ico
 [repo]: imgs/github.svg
 <!-- /markdown references -->
