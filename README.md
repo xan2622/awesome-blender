@@ -80,7 +80,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 ## 🔮Add-ons [^](#table)
 - Check list of Blender's built-in add-ons documentation [here](https://docs.blender.org/manual/en/dev/addons/index.html).
 - Blender addon reviews: 
-    - Blogs: [BlenderAddons.org](https://blender-addons.org/), [BlenderNation](https://www.blendernation.com/category/blender/add-ons/).
+    - Blogs: [BlenderAddons.org](https://blender-addons.org/), [BlenderDepot](https://blenderdepot.netlify.com/addons/?search=&page=1&sort=popular), [BlenderNation](https://www.blendernation.com/category/blender/add-ons/).
     - Youtube: [New Media Supply](https://www.youtube.com/channel/UCrRilykeqb6WzYpxaUTzzgg/videos), [Steven Scott](https://www.youtube.com/playlist?list=PLegkgTs-3xf4KkKYDW3jF27lwtSBQQU51), [Markom3D](https://www.youtube.com/playlist?list=PL1DrFRqy1K5XySpq-FFTXqT4JSEg5pEtS).
 - Check ['List of addons that work with 2.8'](https://blenderartists.org/t/list-of-addons-that-work-with-2-8/1132912) on [blenderartists/scripts](https://blenderartists.org/c/coding/released-scripts-and-themes/50).
 - Get premium add-ons from [BlenderMarket](https://blendermarket.com/products), [Gumroad](https://gumroad.com/discover?query=blender%20addon).
@@ -88,7 +88,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 ### 🧊Modeling [^](#table)
 - [Sorcar](https://aachman98.itch.io/sorcar): Procedural modeling in Blender using Node Editor. [![][repo]](https://github.com/aachman98/Sorcar)
 - [Sverchok](http://nikitron.cc.ua/sverchok_en.html): is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok)
-- [MACHIN3tools](https://gumroad.com/l/MACHIN3tools): is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [[market]](https://blendermarket.com/products/MACHIN3tools) 
+- [MACHIN3tools](https://gumroad.com/l/MACHIN3tools): is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![][bm-logo]](https://blendermarket.com/products/MACHIN3tools) 
 - [QBlocker](https://qblockerdocs.readthedocs.io/): is an interactive object creation tool for Blender.
 - [Wonder Mesh](https://github.com/WiresoulStudio/W_Mesh_28x): Wonder Mesh lets you create and edit parametric primitives in Blender. [![][ba-logo]](https://blenderartists.org/t/wonder-mesh/1172452) [![][bm-logo]](https://blendermarket.com/products/wonder-mesh)
 - [F2](https://github.com/Cfyzzz/Other-scripts): extends Blender’s native functionality for creating faces and should be a great help in your modeling workflow. [![][ba-logo]](https://blenderartists.org/t/f2/562773/169)
@@ -314,6 +314,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Real Camera](https://3d-wolf.com/products/camera.html): is an addon that allows you to control the Blender camera like a real camera. [![][repo]](https://github.com/macio97/Real-Camera)
     - [Cameras-Lister](https://github.com/Ryxx/Cameras-Lister): Easy select camera’s in popup shortcut is Alt-C.
     - [Photographer](https://blenderartists.org/t/photographer-camera-exposure-white-balance-and-autofocus/1101721/238): Camera Exposure, White balance and Autofocus.
+    - [Conver mesh vertex to camera](https://gumroad.com/l/xvrKo): This addon converts each selected mesh point into a camera with direction.  Direction can be set according to: 'Origin', '3D Cursor', 'Word Origin'. [![][ba-logo]](https://blenderartists.org/t/conver-mesh-vertex-to-camera/1203347) [![][gumroad-logo]](https://gumroad.com/l/xvrKo)
 - Song Visualizer
     - [Bizualizer](https://github.com/doakey3/Bizualizer), [Curtis Holt's](https://gumroad.com/l/klmfi)
 - Display:
@@ -339,7 +340,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752): Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
 - [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater): For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
 - [EasyFX](https://github.com/DoubleZZ/EasyFX-2.8): allows you to do post-production directly from the image editor, and EasyFX will automatically build your composition node tree. Once an image has been rendered you can easily start enabling effects, tweak values and manipulate the image to your liking. [![][ba-logo]](https://blenderartists.org/t/addon-easyfx-post-production-done-directly-in-the-image-editor/655920)
-
 
 ### 🦖Game Engines [^](#table)
 - [Armory](https://armory3d.org/): is an open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory)
