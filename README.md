@@ -9,7 +9,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - [🔮Add-ons](#Add-ons-)
     - [🧊Modeling](#Modeling-)
     - [🦑Generator/Builder](#GeneratorBuilder-)
-    - [🖍Retopology/Remesh](#Retopology/Remesh-)
+    - [🖍Retopology/Remesh](#RetopologyRemesh-)
     - [🔳Texture/UV](#TextureUV-)
     - [💡Lighting](#Lighting-)
     - [🌊Simulation/Physics](#SimulationPhysics-)
