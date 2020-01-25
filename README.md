@@ -302,7 +302,10 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [to ZBrush](https://blenderartists.org/t/goz-for-blender-2-8/1138418), [VTK](https://github.com/tkeskita/io_mesh_vtk), [Bezier2SVG](https://leomoon.com/downloads/plugins/leomoon-bezier2svg/)
     - [Export Paper Model from Blender](https://addam.github.io/Export-Paper-Model-from-Blender/): add-on for creating paper models. [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender)
 - Render:
-    - [BatchRender](https://github.com/VertStretch/RenderBurst), [Notify](https://github.com/Dziban-dev/Notify_Blender_Render), [AlarmShutdown](https://gumroad.com/l/PcDfw), [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton), 
+    - [BatchRender](https://github.com/VertStretch/RenderBurst): Render all cameras, one by one, and store the results.
+    - [Notify](https://github.com/Dziban-dev/Notify_Blender_Render): Sends a system notification when your render is complete, works on linux and theoretically on Windows too, havent tested it there yet.
+    - [AlarmShutdown](https://gumroad.com/l/PcDfw): Alarm and Shutdown is a very simple, yet handy addon (plugin) for Blender 3D Software, that allows you to set custom sound alarm, shut-down your computer by timer and send an email notification on render completion event.
+    - [RenderButton](https://github.com/Mitsuma/Blender2.8-RenderButton): Adds a simple Render and Animation Button as well as Display Settings for Blender 2.8x.
     - [Render Button & Camera Manager](https://blenderartists.org/t/render-button-camera-manager-for-blender-2-81-update-07-01-2020-v0-3-7/1159414): displays a big render button and features many camera related options.
     - [Blender Suspender](https://gumroad.com/l/bpupp): allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
     - [Render+](https://blendermarket.com/products/render) [$]: Render+ keeps track of your rendertimes so you don't have to.  Useful metrics like the average, slowest and fastest frame time help you improve your scenes. While the estimated remaining let's you plan ahead. 
