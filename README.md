@@ -272,7 +272,9 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Freeik](https://www.blendermarket.com/products/freeik?ref=2) [$]: Turn basic armature into an animation ready rig in a couple of clicks, features a more intuitive way to pose and animate a model and different posing modes. See also its [BlenderArtists thread](https://blenderartists.org/t/freeik/1157419). 
     - [Rigify for MB-Lab](https://github.com/danielenger/Rigify-for-MB-Lab): This add-on adds a nearly ready-to-use Rigify Meta-Rig for Characters made with the MB-Lab add-on. See also its [BlenderArtists thread](https://blenderartists.org/t/rigify-for-mb-lab-addon-for-an-addon/1140840).
     - [Spring Bones](https://github.com/artellblender/springbones): Blender addon to add spring/bouncy dynamic effect to bones.
- 
+    - [Text Effects](https://blendermarket.com/products/ik-text-effects): Text Effects allow you to build complex font animation without maths or key frames.
+    - [Shape Keys+](https://blenderartists.org/t/shape-keys/680636): adds a panel with extra options for creating, sorting, viewing, and driving shape keys.
+
 ### 🗜Render Engines [^](#table)
 - [appleseed](https://appleseedhq.net/): is an open source, physically-based global illumination rendering engine primarily designed for animation and visual effects. [![][repo]](https://github.com/appleseedhq/appleseed)
 - [LuxCore](https://luxcorerender.org/): LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. [![][repo]](https://github.com/LuxCoreRender/BlendLuxCore)
@@ -305,7 +307,6 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Blender Suspender](https://gumroad.com/l/bpupp): allows you to suspend and resume Blender at any time, even in a middle of a rendering/baking.
     - [Render+](https://blendermarket.com/products/render) [$]: Render+ keeps track of your rendertimes so you don't have to.  Useful metrics like the average, slowest and fastest frame time help you improve your scenes. While the estimated remaining let's you plan ahead. 
     - [Auto Render Tile Size](https://gregzaal.github.io/auto-tile-size/): Never worry about unecessarily slow render times or having to change tile sizes every time you switch between CPU and GPU rendering again. [![][repo]](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/blob_plain/HEAD:/render_auto_tile_size.py) [Other repository](https://github.com/gregzaal/Auto-Render-Tile-Size) 
-- [EasyFX](https://github.com/DoubleZZ/EasyFX-2.8): allows you to do post-production directly from the image editor, and EasyFX will automatically build your composition node tree. Once an image has been rendered you can easily start enabling effects, tweak values and manipulate the image to your liking. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-easyfx-post-production-done-directly-in-the-image-editor/655920). 
 - Camera:
     - [Real Camera](https://3d-wolf.com/products/camera.html): is an addon that allows you to control the Blender camera like a real camera. [![][repo]](https://github.com/macio97/Real-Camera)
     - [Cameras-Lister](https://github.com/Ryxx/Cameras-Lister): Easy select camera’s in popup shortcut is Alt-C.
@@ -327,15 +328,15 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
     - [Subsimport](https://github.com/doakey3/Subsimport): is an addon for Blender that allows users to create and edit subtitles for movies or music. 
 - AddonCollections: [varkenvarken/blenderaddons](https://github.com/varkenvarken/blenderaddons), [uhlik/bpy](https://github.com/uhlik/bpy), [YuriyAndropov/blenderPython](https://github.com/YuriyAndropov/blenderPython), [bookyakuno/-Blender-](https://github.com/bookyakuno/-Blender-), [Stromberg90/Scripts](https://github.com/Stromberg90/Scripts/tree/master/Blender)
 - [Projectors](https://github.com/Ocupe/Projectors): a blender add-on for simple projector creation and modification.
-- [Shape Keys+](https://blenderartists.org/t/shape-keys/680636): adds a panel with extra options for creating, sorting, viewing, and driving shape keys.
 - [FontSelector](https://github.com/samytichadou/FontSelector_blender_addon/): easy font management inside Blender.
-- [Text Effects](https://blendermarket.com/products/ik-text-effects): Text Effects allow you to build complex font animation without maths or key frames.
 - [Simple Renaming Panel](https://github.com/Weisl/simple_renaming_panel): rename more objects at once. The tool includes basic functionalities of adding suffixes, prefixes, search and replace, add suffixes depending on the object type and much more.
 - [IOR_reference](https://github.com/diegogangl/IOR_reference): a blender addon that display IOR values in a list.
 - [QuickSwitch](https://github.com/schroef/QuickSwitch): a helper to quick switch workspaces and view render menu in viewport.
 - [MiraTools](https://github.com/mifth/mifthtools): 3dcoat, houdini, modo mesh exchange tools and more. See also its [BlenderArtists thread](https://blenderartists.org/t/miratools/637385).
 - [Modifier List](https://blenderartists.org/t/modifier-list-1-5-1/1147752): Alternative UI layout for modifiers with handy features. Available also inside the sidebar and as a popup.
 - [Blender Addon Updater](https://github.com/CGCookie/blender-addon-updater): For addons developers. With this Python module, developers can create auto-checking for updates with their blender addons as well as one-click version installs.
+- [EasyFX](https://github.com/DoubleZZ/EasyFX-2.8): allows you to do post-production directly from the image editor, and EasyFX will automatically build your composition node tree. Once an image has been rendered you can easily start enabling effects, tweak values and manipulate the image to your liking. See also its [BlenderArtists thread](https://blenderartists.org/t/addon-easyfx-post-production-done-directly-in-the-image-editor/655920). 
+
 
 ### 🦖Game Engines [^](#table)
 - [Armory](https://armory3d.org/): is an open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory)
