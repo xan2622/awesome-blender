@@ -86,7 +86,7 @@ A curated list of awesome **blender** add-ons, tools, tutorials and resources fo
 - Get premium add-ons from [BlenderMarket](https://blendermarket.com/products), [Gumroad](https://gumroad.com/discover?query=blender%20addon).
 
 ### 🧊Modeling [^](#table)
-- [TEST](https://google.com): description description description description description description. [![][ba-logo]](https://blenderartists.org/)
+- [TEST](https://google.com): description description description description description description. [![][ba-logo]](https://blenderartists.org/) [![][gumroad-logo]](https://gumroad.com/) 
 
 - [Sorcar](https://aachman98.itch.io/sorcar): Procedural modeling in Blender using Node Editor. [![][repo]](https://github.com/aachman98/Sorcar)
 - [Sverchok](http://nikitron.cc.ua/sverchok_en.html): is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok)
@@ -871,5 +871,6 @@ Thanks for reading!
 <!-- markdown references -->
 [bl-logo]: imgs/blender.svg
 [ba-logo]: imgs/BlenderArtists.svg
+[gumroad-logo]: imgs/gumroad.svg
 [repo]: imgs/github.svg
 <!-- /markdown references -->
